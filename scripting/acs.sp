@@ -1,6 +1,6 @@
 //////////////////////////////////////////
 // Automatic Campaign Switcher for L4D2 //
-// Version 2.0.0                        //
+// Version 2.0.1                        //
 // Compiled Oct 7, 2018                 //
 // Programmed by Rikka                  //
 //////////////////////////////////////////
@@ -30,6 +30,7 @@
 		Community 1-5
 
 	Change Log
+        v2.0.1 (YakumoHaruka )  - chmap/chmap2 can have a name hint argument to filter maps
 		----- Rikka's upgraded version -----
 		v2.0.0 (Oct 7, 2018)	- Appied Lux's patch, players should see the next map voting menu anyway
 		
@@ -391,39 +392,92 @@ void DumpMissionInfo(int client, LMM_GAMEMODE gamemode) {
 #define MMC_ITEM_ALLMAPS_TEXT "All maps"
 #define MMC_ITEM_MISSION_TEXT "Mission"
 #define MMC_ITEM_MAP_TEXT "Map"
-bool ShowMissionChooser(int iClient, bool isMap, bool isVote, int prevLevelMenuPage=0) {
-	if(iClient < 1 || IsClientInGame(iClient) == false || IsFakeClient(iClient) == true)
-		return false;
-	
-	//Create the menu
-	Menu chooser = CreateMenu(MissionChooserMenuHandler, MenuAction_Select | MenuAction_DisplayItem | MenuAction_End);
-		
-	if (isMap) {
-		chooser.SetTitle("%T", "Choose a Map", iClient);
-		if (isVote) {
-			chooser.AddItem(MMC_ITEM_IDONTCARE_TEXT, "N/A");
-		}
-		chooser.AddItem(MMC_ITEM_ALLMAPS_TEXT, "N/A");
-	} else {
-		chooser.SetTitle("%T", "Choose a Mission", iClient);
-		if (isVote) {
-			chooser.AddItem(MMC_ITEM_IDONTCARE_TEXT, "N/A");
-		}
-	}
-	
-	char menuName[20];
-	for(int cycleIndex = 0; cycleIndex < ACS_GetMissionCount(g_iGameMode); cycleIndex++) {
-		IntToString(cycleIndex, menuName, sizeof(menuName));
-		chooser.AddItem(MMC_ITEM_MISSION_TEXT, menuName);
-	}
-	
-	//Add an exit button
-	chooser.ExitButton = true;
-	
-	//And finally, show the menu to the client
-	chooser.DisplayAt(iClient, prevLevelMenuPage, MENU_TIME_FOREVER);
-		
-	return true;	
+bool ShowMissionChooser(int iClient, bool isMap, bool isVote, int prevLevelMenuPage=0, char[] nameHint = "") {
+    if(iClient < 1 || IsClientInGame(iClient) == false || IsFakeClient(iClient) == true)
+        return false;
+
+    //Create the menu
+    Menu chooser = CreateMenu(MissionChooserMenuHandler, MenuAction_Select | MenuAction_DisplayItem | MenuAction_End);
+
+    if (isMap) {
+        chooser.SetTitle("%T", "Choose a Map", iClient);
+        if (isVote) {
+            chooser.AddItem(MMC_ITEM_IDONTCARE_TEXT, "N/A");
+        }
+        chooser.AddItem(MMC_ITEM_ALLMAPS_TEXT, "N/A");
+    } else {
+        chooser.SetTitle("%T", "Choose a Mission", iClient);
+        if (isVote) {
+            chooser.AddItem(MMC_ITEM_IDONTCARE_TEXT, "N/A");
+        }
+    }
+
+    ArrayList missionIndexList = ACS_GetMissionIndexList(g_iGameMode);
+
+    int langEnglish = GetLanguageByCode("en");
+    int langClient = GetClientLanguage(iClient);
+
+    char menuName[20];
+    for(int cycleIndex = 0; cycleIndex < ACS_GetMissionCount(g_iGameMode); cycleIndex++) {
+        if (nameHint[0] == '\0' || missionIndexList == null) {
+            IntToString(cycleIndex, menuName, sizeof(menuName));
+            chooser.AddItem(MMC_ITEM_MISSION_TEXT, menuName);
+        } else {
+            // only fill missions with nameHint in its name, 
+            // localized name, or english name
+            bool isWithHint = false;
+            int missionIndex = missionIndexList.Get(cycleIndex);
+            int ret = 0;
+
+            // look for the name of the mission (the name in mission files)
+            char tmpName[LEN_MISSION_NAME];
+            ret = LMM_GetMissionName(g_iGameMode, missionIndex, tmpName, sizeof(tmpName));
+            if (0 == ret) {
+                if (-1 != StrContains(tmpName, nameHint, false)) {
+                    isWithHint = true;
+                }
+            }
+
+            // try the localized name of the mission in client language
+            if (false == isWithHint) {
+                ret = LMM_GetMissionLocalizedName(
+                        g_iGameMode, missionIndex, tmpName, sizeof(tmpName), iClient);
+
+                if (1 == ret) {
+                    if (-1 != StrContains(tmpName, nameHint, false)) {
+                        isWithHint = true;
+                    }
+                }
+            }
+
+            // try the localized name of the mission in English
+            if (false == isWithHint) {
+                SetClientLanguage(iClient, langEnglish);
+                ret = LMM_GetMissionLocalizedName(
+                        g_iGameMode, missionIndex, tmpName, sizeof(tmpName), iClient);
+                SetClientLanguage(iClient, langClient);
+
+                if (1 == ret) {
+                    if (-1 != StrContains(tmpName, nameHint, false)) {
+                        isWithHint = true;
+                    }
+                }
+            }
+
+            if (isWithHint) {
+                IntToString(cycleIndex, menuName, sizeof(menuName));
+                chooser.AddItem(MMC_ITEM_MISSION_TEXT, menuName);
+            }
+        }
+    }
+
+    //Add an exit button
+    chooser.ExitButton = true;
+
+    //And finally, show the menu to the client
+    chooser.DisplayAt(iClient, prevLevelMenuPage, MENU_TIME_FOREVER);
+
+    return true;	
 }
 
 public int MissionChooserMenuHandler(Menu menu, MenuAction action, int client, int item) {
@@ -615,7 +669,7 @@ public int MapChooserMenuHandler(Menu menu, MenuAction action, int client, int i
 }
 
 bool ShowChmapVoteToAll(int missionIndex, int mapIndex) {
-	Menu menuVote = CreateMenu(ChampVoteHandler, 
+	Menu menuVote = CreateMenu(ChmapVoteHandler, 
 						MenuAction_Display|MenuAction_DisplayItem|MenuAction_VoteCancel|MenuAction_VoteEnd|MenuAction_End);
 	
 	menuVote.SetTitle("To be translated");
@@ -628,7 +682,7 @@ bool ShowChmapVoteToAll(int missionIndex, int mapIndex) {
 	menuVote.DisplayVoteToAll(20);
 }
 
-public int ChampVoteHandler(Menu menu, MenuAction action, int param1, int param2) {
+public int ChmapVoteHandler(Menu menu, MenuAction action, int param1, int param2) {
 	if (action == MenuAction_Display) {
 		// Localize title
 		char localizedName[LEN_LOCALIZED_NAME];
@@ -861,7 +915,24 @@ public Action Command_ChangeMapVote(int iClient, int args) {
 	if (g_hCVar_ChMapPolicy.IntValue < 1)
 		return Plugin_Handled;	// Disabled
 
-	ShowMissionChooser(iClient, (g_iGameMode == GAMEMODE_SCAVENGE || g_iGameMode == GAMEMODE_SURVIVAL), false);
+	char nameHint[LEN_MISSION_NAME];
+	if (args > 0) {
+		// GetCmdArg(1) cannot return the correct characters when given 
+        // chinese characters, so I used GetCmdArgsString here, which gets 
+		// the whole argument part of the command, without the command itself
+		GetCmdArgString(nameHint, sizeof(nameHint));
+		ShowMissionChooser(
+				iClient, 
+				(g_iGameMode == GAMEMODE_SCAVENGE || g_iGameMode == GAMEMODE_SURVIVAL),
+				false,
+				0,
+				nameHint);
+	} else {
+		ShowMissionChooser(
+				iClient, 
+				(g_iGameMode == GAMEMODE_SCAVENGE || g_iGameMode == GAMEMODE_SURVIVAL), 
+				false);
+	}
 	
 	//Play a sound to indicate that the user can vote on a map
 	EmitSoundToClient(iClient, SOUND_NEW_VOTE_START);
@@ -872,7 +943,16 @@ public Action Command_ChangeMapVote2(int iClient, int args) {
 	if (g_hCVar_ChMapPolicy.IntValue < 1)
 		return Plugin_Handled;	// Disabled
 
-	ShowMissionChooser(iClient, true, false);
+	char nameHint[LEN_MISSION_NAME];
+	if (args > 0) {
+		// GetCmdArg(1) cannot return the correct characters when given 
+		// chinese characters, so I used GetCmdArgsString here, which gets 
+		// the whole argument part of the command, without the command itself
+		GetCmdArgString(nameHint, sizeof(nameHint));
+		ShowMissionChooser(iClient, true, false, 0, nameHint);
+	} else {
+		ShowMissionChooser(iClient, true, false);
+	}
 
 	//Play a sound to indicate that the user can vote on a map
 	EmitSoundToClient(iClient, SOUND_NEW_VOTE_START);	
@@ -1527,10 +1607,21 @@ public Action MapVote(int iClient, int args) {
 	}
 	
 	//Open the vote menu for the client if they arent using the server console
-	if(iClient < 1)
+	if(iClient < 1) {
 		PrintToServer("You cannot vote for a map from the server console, use the in-game chat");
-	else
-		VoteMenuDraw(iClient);
+	} else {
+        char nameHint[LEN_MISSION_NAME];
+        if (args > 0) {
+            // GetCmdArg(1) cannot return the correct characters when given 
+			// chinese characters, so I used GetCmdArgsString here, which gets 
+			// the whole argument part of the command,  without the command itself
+            GetCmdArgString(nameHint, sizeof(nameHint));
+
+            VoteMenuDraw(iClient, nameHint);
+        } else {
+            VoteMenuDraw(iClient, "");
+        }
+    }
 }
 
 //Command that a player can use to see the total votes for all maps/campaigns
@@ -1640,15 +1731,15 @@ public Action Timer_DisplayVoteAdToAll(Handle hTimer, any iData) {
 }
 
 //Draw the menu for voting
-public void VoteMenuDraw(int iClient) {
+void VoteMenuDraw(int iClient, char[] nameHint = "") {
 	if(iClient < 1 || IsClientInGame(iClient) == false || IsFakeClient(iClient) == true)
 		return;
 	
 	//Populate the menu with the maps in rotation for the corresponding game mode
 	if(g_iGameMode == GAMEMODE_SCAVENGE) {
-		ShowMissionChooser(iClient, true, true);	// Choose maps
+		ShowMissionChooser(iClient, true, true, 0, nameHint);	// Choose maps
 	} else {
-		ShowMissionChooser(iClient, false, true);	// Choose missions
+		ShowMissionChooser(iClient, false, true, 0, nameHint);	// Choose missions
 	}
 	
 	//Play a sound to indicate that the user can vote on a map
