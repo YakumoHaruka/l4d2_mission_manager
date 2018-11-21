@@ -1,5 +1,24 @@
 # L4D2 Mission Manager & Automatic Campaign Switcher
 
+This version of [L4D2 Mission Manager & Automatic Campaign Switcher](https://github.com/YakumoHaruka/l4d2_mission_manager) is forked from rikka0w0's work (v2.0.0), modified to satisfy my own server's need. 
+
+Rikka0w0's original work and any succeeding version can be found in the [L4D2 Mission Manager & Automatic Campaign Switcher](https://github.com/rikka0w0/l4d2_mission_manager).
+
+## Changes After the Fork
+**2.0.1-yh**
+- An optional argument is supported in command chmap, chmap2 and mapvote. \
+Vote initiator can provide a keyword, then the mission selecting menu constructed will only contain missions with the keyword in its name ("Name" in mission files), localized name (in vote initiator's locale), or English name. 
+
+**2.0.2-yh**
+-  New chmap/chmap2 vote policy 3 is added. When it's enabled, absentation of spectators and dead players are treated as YES, and abstention of living players are treated as NO.
+- Only one chmap/chmap2 vote in progress at a time. The rejection message comes up on the last step initializing a vote, so that you may still open the mission selecting menu and navigate it during another vote. **Note that if you didn't cast a YES or NO vote before you start a new mission selecting menu, your vote is treated as an abstentation.**
+- Player disconnected during vote is excluded from the current vote pool, no matter he/she has had casted a vote or not.
+- A previously commented command declaration **sm_acs_maps** is recovered and implemented. It lists missions in corresponding gamemode's configuration order.
+
+ \
+ \
+*The rest of this document is the original content of rikka0w0's Readme.md.*
+******
 The "L4D2 Mission Manager" (`l4d2_mission_manager`) provides a set of APIs which allows other plugins to access the mission/map list: e.g. which map comes after the current one. Coop, versus, scavenge and survival modes are currently supported. \
 Automatic Campaign Switcher, or "ACS", was written as an easy way to keep the Left4Dead 2 default map rotation going on a server without people being booted because the vote to restart a campaign was not passed. 
 ACS also includes a voting system in which people can vote for their favorite campaign/map on a finale or scavenge map. The winning campaign/map will become the next map the server loads. \
@@ -136,3 +155,4 @@ Some addon maps have malformed mission information file, which cannot be parsed 
 Common problems include: missing "}" at the end of section, using "0" instead of "1" for index of the first map. \The map author is responsible for problem.\
 Type `sm_lmm_list invalid` in the server console and it should give you a list of maps that cannot be recognized.
 You should manually fix those files in the "mission.cache" folder. Changes to existing files in the "mission.cache" folder will never be overwriten by the plugin.
+
