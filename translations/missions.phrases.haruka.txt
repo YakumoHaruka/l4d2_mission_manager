@@ -1,0 +1,1181 @@
+"Phrases" 
+{
+	"L4D2C1"
+	{
+		"en" "Dead Center"
+	}
+	"L4D2C2"
+	{
+		"en" "Dark Carnival"
+	}
+	"L4D2C3"
+	{
+		"en" "Swamp Fever"
+	}
+	"L4D2C4"
+	{
+		"en" "Hard Rain"
+	}
+	"L4D2C5"
+	{
+		"en" "The Parish"
+	}
+	"L4D2C6"
+	{
+		"en" "The Passing"
+	}
+	"L4D2C7"
+	{
+		"en" "The Sacrifice"
+	}
+	"L4D2C8"
+	{
+		"en" "No Mercy"
+	}
+	"L4D2C9"
+	{
+		"en" "Crash Course"
+	}
+	"L4D2C10"
+	{
+		"en" "Death Toll"
+	}
+	"L4D2C11"
+	{
+		"en" "Dead Air"
+	}
+	"L4D2C12"
+	{
+		"en" "Blood Harvest"
+	}
+	"L4D2C13"
+	{
+		"en" "Cold Stream"
+	}
+
+
+	
+	"HighwayToHell"
+	{
+		// It seems that this is just another campaign with the same
+		// maps as HighwayHell, which called "Highway to Hell Again"
+		"en" "Highway To Hell"
+	}
+
+
+
+	"hauntedforest"
+	{
+		"en" "D0002 Haunted Forest"
+	}
+	"QuestionableEthicsAlphaTest"
+	{
+		"en" "D0003 Questionable Ethics 2"
+	}
+	"DeadSeries"
+	{
+		"en" "D0004 Dead Series"
+	}
+	"drdegov21"
+	{
+		"en" "D0005 Drop Dead Gorges"
+	}
+	"YamaMSE"
+	{
+		"en" "D0013 Yama"
+	}
+	"Claustrophobia"
+	{
+		"en" "D0015 Claustrophobia"
+	}
+	"fallindeath"
+	{
+		"en" "D0018 Fall in Death"
+	}
+	"TheBloodyMoors"
+	{
+		"en" "D0022 The Bloody Moors"
+	}
+	"Diescraper36"
+	{
+		"en" "D0031 Diescraper"
+	}
+	"7HoursLaterII"
+	{
+		"en" "D0032 7 Hours Later II"
+	}
+	"TheCure"
+	{
+		"en" "D0033 The Cure"
+	}
+	"SBTDTWO"
+	{
+		"en" "D0034 Surrounded by the Dead II"
+	}
+	"darkwood"
+	{
+		"en" "D0038 Dark Wood (Extended) v1.6.3"
+	}
+	"FarewellChenming"
+	{
+		"en" "D0039 Farewell Chenming"
+	}
+
+
+	"WhiteForest"
+	{
+		"en" "D1001 White Forest"
+	}
+	"SaltHellPark"
+	{
+		"en" "D1010 Salt Hell Park"
+	}
+	"2evileyes"
+	{
+		"en" "D1012 Evil Eyes"
+	}
+	"shool"
+	{
+		"en" "D1018 Silent Hill: Otherside of Life V4.7"
+	}
+	"CrashBandicootTheReturn"
+	{
+		"en" "D1032 CrashBandicoot 1"
+	}
+	"l4d2CrashBandicoot2"
+	{
+		"en" "D1033 CrashBandicoot 2"
+	}
+	"NightmareHouse2"
+	{
+		"en" "D1038 Nightmare House 2"
+	}
+	"QuestionableEthics"
+	{
+		"en" "D1044 Questionable Ethics 1"
+	}
+	"deadvacation2"
+	{
+		"en" "D1049 Dead Vacation 2"
+	}
+
+
+
+
+	"huichuang"
+	{
+		"en" "D2001 HuiChuang"
+	}
+	"huichuang2"
+	{
+		"en" "D2002 HuiChuang 2"
+	}
+	"HHHHH"
+	{
+		"en" "D2003 shenmejb"
+	}
+	"fallen"
+	{
+		"en" "D2005 Fallen"
+	}
+	"yomimario2"
+	{
+		"en" "D2006 Left 4 Mario"
+	}
+	"bot"
+	{
+		"en" "D2007 BOT Battle Ogress Toys"
+	}
+	"HardRainLegoTown"
+	{
+		"en" "D2008 Hard Rain - Lego Town"
+	}
+	"TrueFangShi"
+	{
+		"en" "D2009 True FangShi"
+	}
+	"wanli"
+	{
+		"en" "D2011 Wan Li"
+	}
+	"BloodTracks"
+	{
+		"en" "D2012 Blood Tracks"
+	}
+	"25toLife"
+	{
+		"en" "D2013 25 to Life"
+	}
+	"newworldorderext"
+	{
+		"en" "D2014 New World Order Extended"
+	}
+	"NoWayOut"
+	{
+		"en" "D2015 No Way Out"
+	}
+	"nowayout2"
+	{
+		"en" "D2016 No Way Out 2"
+	}
+	"adammissionfixed"
+	{
+		"en" "D2018 A Dam Mission Fixed"
+	}
+	"damitdc"
+	{
+		"en" "D2019 Damit 2 - The Director's Cut"
+	}
+	"BloodProof"
+	{
+		"en" "D2020 Blood Proof"
+	}
+	"cursedandbabbling"
+	{
+		"en" "D2021 Cursed and Babbling (Fixed)"
+	}
+	"Gunk"
+	{
+		"en" "D2022 Gunk"
+	}
+	"chenchencity"
+	{
+		"en" "D2023 Chenchen City"
+	}
+	"ddntr1"
+	{
+		"en" "D2024 Deadenator"
+	}
+	"DeadFlagBlues"
+	{
+		"en" "D2025 Dead Flag Blues 2"
+	}
+	"kokiriforest"
+	{
+		"en" "D2026 Kokiri Forest"
+	}
+	"DeadStreet2"
+	{
+		"en" "D2028 Dead Street 2 (2.0)"
+	}
+	"citycenterext"
+	{
+		"en" "D2029 City Center Apocalypse Extended"
+	}
+	"baishan"
+	{
+		"en" "D2030 Baishan"
+	}
+	"Overkill"
+	{
+		"en" "D2031 Overkill"
+	}
+	"thedividereborn"
+	{
+		"en" "D2032 The Divide: Reborn"
+	}
+	"FatalFreight"
+	{
+		"en" "D2033 Fatal Freight"
+	}
+
+
+
+	
+	
+	
+	
+	"kaoming"
+	{
+		"en" "D3001 Kaoming Mountain"
+	}
+	"hehe21"
+	{
+		"en" "D3002 Tank God Domain"
+	}
+	"fieldofthedeadext"
+	{
+		"en" "D3003 Field of the Dead Ext TLM Ver"
+	}
+	"BDU"
+	{
+		"en" "D3004 Burning Down Under"
+	}
+	"baltic"
+	{
+		"en" "D3005 A Baltic Tale"
+	}
+	"specialtask"
+	{
+		"en" "D3006 Special Task L4D2"
+	}
+	"coldcasefs"
+	{
+		"en" "D3007 Cold Case: The Forsaken"
+	}
+	"coldcase"
+	{
+		"en" "D3008 Cold Case 2017"
+	}
+	"umbrella"
+	{
+		"en" "D3009 Umbrella 2.0"
+	}
+	"OrangeOnslaught"
+	{
+		"en" "D3010 Orange Onslaught"
+	}
+	"JTB2"
+	{
+		"en" "D3011 Beldurra 2"
+	}
+	"Fake"
+	{
+		"en" "D3012 Fake"
+	}
+	"Chapter2"
+	{
+		"en" "D3013 Nowhare Is Safe - Chapter 2"
+	}
+	"nomoreceda"
+	{
+		"en" "D3014 No More Ceda L4D2"
+	}
+	"carnage2"
+	{
+		"en" "D3015 Carnage 2"
+	}
+	"BlackCityExtended"
+	{
+		"en" "D3016 Black City Extended"
+	}
+	"stenches"
+	{
+		"en" "D3017 Stenches"
+	}
+	"bigwat"
+	{
+		"en" "D3018 Big Wat"
+	}
+	"lostv2"
+	{
+		"en" "D3019 Lost v2 Fixed"
+	}
+	"2032MC"
+	{
+		"en" "D3020 2032"
+	}
+
+
+
+
+
+	"hehe5"
+	{
+		"en" "D4001 hehe 5"
+	}
+	"RoadToNowhere2"
+	{
+		"en" "D4002 RoadToNowhere II"
+	}
+	"TanksPlayground"
+	{
+		"en" "D4003 Tanks Playground v3.0"
+	}
+	"dscream"
+	{
+		"en" "D4004 Die Screaming II"
+	}
+	"darkwaters"
+	{
+		"en" "D4005 Dark Waters"
+	}
+	"JourneyToSplashMountain"
+	{
+		"en" "D4006 Journey to Splash Mountain"
+	}
+	"Revenge"
+	{
+		"en" "D4007 Revenge"
+	}
+	"fortnoesis"
+	{
+		"en" "D4008 Fort Noesis"
+	}
+	"BaysideGenocide"
+	{
+		"en" "D4009 Bayside Genocide"
+	}
+	"deathtrip"
+	{
+		"en" "D4010 Death Trip v5"
+	}
+	"Hideout2"
+	{
+		"en" "D4011 Hideout 2"
+	}
+	"esctimelordsinferno"
+	{
+		"en" "D4012 Escape Timelords Inferno TLM Ver"
+	}
+	"EscUsingURBasicInstincts"
+	{
+		"en" "D4013 Escape Using UR Basic Instincts (Fixed)"
+	}
+	"escdevilschapel"
+	{
+		"en" "D4014 Escape the Devil's Chapel TLM Ver"
+	}
+	"soitimelordsver"
+	{
+		"en" "D4015 Source of Infection Timelords Ver"
+	}
+	"energycrisis"
+	{
+		"en" "D4016 Energy Crisis"
+	}
+	"DevilMountain"
+	{
+		"en" "D4017 Devil Mountain"
+	}
+	"Labirinferno"
+	{
+		"en" "D4018 Labirinferno"
+	}
+	"withoutname"
+	{
+		"en" "D4019 Zombie Movie Without Name!"
+	}
+	"rkls"
+	{
+		"en" "D4020 Roadkill"
+	}
+	"pdm"
+	{
+		"en" "D4021 Pitch Dark Mesa"
+	}
+	"Sawrunner"
+	{
+		"en" "D4022 Haunting Grounds"
+	}
+	"hongkong"
+	{
+		"en" "D4023 Hong Kong 4 Dead"
+	}
+	"freezerburn"
+	{
+		"en" "D4024 Freezer Burn"
+	}
+	"BadNeighborhood"
+	{
+		"en" "D4025 Bad Neighborhood"
+	}
+	"xxxEchoxxx"
+	{
+		"en" "D4026 Echo (3.0)"
+	}
+	"deadrun"
+	{
+		"en" "D4027 Dead Run L4D2"
+	}
+	"thecomplex"
+	{
+		"en" "D4028 The Complex L4D2"
+	}
+	"quedan"
+	{
+		"en" "D4029 Quedan 4X Morir L4D2"
+	}
+	"deadst2"
+	{
+		"en" "D4030 Dead St. 2"
+	}
+	"GoingBallistic"
+	{
+		"en" "D4031 Going Ballistic v5.0"
+	}
+	"strandead"
+	{
+		"en" "D4032 Strandead L4D2"
+	}
+	"Unsdwn"
+	{
+		"en" "D4033 Undead Smackdown"
+	}
+	"hellstorm"
+	{
+		"en" "D4034 Hellstorm 2"
+	}
+	"2019IIDC"
+	{
+		"en" "D4035 2019 II: Director's Cut"
+	}
+	"DeadEnd"
+	{
+		"en" "D4036 Dead End"
+	}
+	"thewoods"
+	{
+		"en" "D4037 The Woods"
+	}
+	"thewoods2"
+	{
+		"en" "D4038 The Woods 2"
+	}
+	"season1bossbattlearena"
+	{
+		"en" "D4039 Boss Challenge Arenas"
+	}
+	"townescape"
+	{
+		"en" "D4040 Town Escape v1.0"
+	}
+	"live4ever2"
+	{
+		"en" "D4041 Live 4 Ever 2"
+	}
+	"PrototypeMk3"
+	{
+		"en" "D4042 Prototype Mk3"
+	}
+	"Greyscale"
+	{
+		"en" "D4043 Grey Scale"
+	}
+	"mymap"
+	{
+		"en" "D4044 Grey Box"
+	}
+	"OpenRoadICSX"
+	{
+		"en" "D4045 Open Road"
+	}
+	"left4bowl"
+	{
+		"en" "D4046 Left 4 Bowl"
+	}
+	"symbyosysv12"
+	{
+		"en" "D4047 SymbyosysV12"
+	}
+	"marsbasealpha"
+	{
+		"en" "D4048 Mars Base Alpha v2.0"
+	}
+	"nospace4zombies"
+	{
+		"en" "D4049 No Space 4 Zombies v3"
+	}
+	"DeadGetway"
+	{
+		"en" "D4050 Dead Getaway (L4D2)"
+	}
+
+
+
+
+
+	"lotr"
+	{
+		"en" "D5001 Lord Of The Rings"
+	}
+	"Deathhour"
+	{
+		"en" "D5002 Death Hour"
+	}
+	"DeathhourNonHardcore"
+	{
+		"en" "D5002 Death Hour (Non-Hardcore)"
+	}
+	"InnesRoadRash"
+	{
+		"en" "D5003 Innes Road Rash (2.9)"
+	}
+	"thebitterend"
+	{
+		"en" "D5004 The Bitter End"
+	}
+	"Badwater"
+	{
+		"en" "D5005 Badwater Basin (Dev 3)"
+	}
+	"ajsSilentFear"
+	{
+		"en" "D5006 Silent Fear"
+	}
+	"UrbanDisaster"
+	{
+		"en" "D5007 Urban Disaster (1.0)"
+	}
+	"youaredoomed"
+	{
+		"en" "D5010 You Are Doomed"
+	}
+	"MassMaze"
+	{
+		"en" "D5011 Mass Maze"
+	}
+	"floodedswamp"
+	{
+		"en" "D5012 Voyeur Country"
+	}
+	"deadindustry2"
+	{
+		"en" "D5013 Dead Industry 2"
+	}
+	"nomoreindustries2"
+	{
+		"en" "D5014 No More Industries 2"
+	}
+	"WelcometoHell"
+	{
+		"en" "D5015 Welcome to Hell"
+	}
+	"lostinlinz2"
+	{
+		"en" "D5016 Lost In Linz 2"
+	}
+	"capemurder"
+	{
+		"en" "D5017 Cape Murder 2"
+	}
+	"Derailed"
+	{
+		"en" "D5018 Derailed"
+	}
+	"darkblood2"
+	{
+		"en" "D5019 Dark Blood 2"
+	}
+	"TheAncientMaze"
+	{
+		"en" "D5020 The Ancient Maze"
+	}
+	"crossingover2"
+	{
+		"en" "D5021 Crossing Over 2"
+	}
+	"coldfear2"
+	{
+		"en" "D5022 Cold Fear 2"
+	}
+	"bloodysunday"
+	{
+		"en" "D5023 Bloody Sunday 2"
+	}
+	"DeathRowL4D2"
+	{
+		"en" "D5024 Death Row L4D2"
+	}
+	"DeadLine2"
+	{
+		"en" "D5025 Beginners luck"
+	}
+	"Deconstruction"
+	{
+		"en" "D5026 Deconstruction"
+	}
+	"Deconstruction2"
+	{
+		"en" "D5027 Deconstruction 2"
+	}
+	"EgyptianCarnage"
+	{
+		"en" "D5028 Egyptian Carnage"
+	}
+	"ggsmi"
+	{
+		"en" "D5029 Shadow Moses Island"
+	}
+	"crescendo"
+	{
+		"en" "D5030 Crescendo Collision"
+	}
+	"thelastvolt"
+	{
+		"en" "D5031 The Last Volt"
+	}
+	"zmb13"
+	{
+		"en" "D5032 ZMB-13"
+	}
+	"beginninghours"
+	{
+		"en" "D5033 Beginning Hours"
+	}
+	"frozen"
+	{
+		"en" "D5034 Frozen - Fixed"
+	}
+	"neverendingwar"
+	{
+		"en" "D5035 Never Ending War - Fixed"
+	}
+	"kickedout"
+	{
+		"en" "D5036 Kicked Out"
+	}
+	"Pac4Dead"
+	{
+		"en" "D5037 Pac4Dead"
+	}
+	"BABEL"
+	{
+		"en" "D5038 BABEL ver1.4"
+	}
+	"Stargate"
+	{
+		"en" "D5039 Stargate SG-4 v2"
+	}
+	"kinkbyblo"
+	{
+		"en" "D5040 Kink"
+	}
+	"chaostheory"
+	{
+		"en" "D5041 Chaos Theory"
+	}
+	"vanillaghosthouse"
+	{
+		"en" "D5042 Vanilla Ghost House"
+	}
+	"VC1ub5"
+	{
+		"en" "D5043 Vienna Calling 1"
+	}
+	"VC2xy6"
+	{
+		"en" "D5044 Vienna Calling 2"
+	}
+	"jsarena2"
+	{
+		"en" "D5045 Arena of the Dead 2 v5"
+	}
+	"DeathAbove"
+	{
+		"en" "D5046 Death from Above"
+	}
+	"Ruination"
+	{
+		"en" "D5047 Ruination"
+	}
+	"DeadHighSchool"
+	{
+		"en" "D5048 Dead High School"
+	}
+	"exMala"
+	{
+		"en" "D5049 Escape from Malabar v7"
+	}
+
+
+
+
+	"breaklineext"
+	{
+		"en" "D6001 Breakline Ext L4D1 Ports"
+	}
+	"L4D2DTClamBeta21"
+	{
+		"en" "D6002 Clam Toll: A Death Toll Remake"
+	}
+	"freepassage"
+	{
+		"en" "D6003 Free Passage 2.0"
+	}
+	"pasiri"
+	{
+		"en" "D6004 Pasiri"
+	}
+	"behind"
+	{
+		"en" "D6005 Left Behind"
+	}
+	"ihatemountains2"
+	{
+		"en" "D6006 I Hate Mountains 2 (1.5)"
+	}
+	"DDCW"
+	{
+		"en" "D6007 Deadly Dispatch (v3)"
+	}
+	"undeadzone"
+	{
+		"en" "D6008 The Undead Zone"
+	}
+	"CarriedOff"
+	{
+		"en" "D6009 Carried Off"
+	}
+	"IndianaJones"
+	{
+		"en" "D6010 Indiana Jones and the Temple of Zombies"
+	}
+	"deathaboard2"
+	{
+		"en" "D6011 Death Aboard II"
+	}
+	"Suburbs"
+	{
+		"en" "D6012 Disturbed in the Suburbs"
+	}
+	"RocketEscape"
+	{
+		"en" "D6013 Rocket Escape"
+	}
+	"TankArena"
+	{
+		"en" "D6014 Tank Arena v1.3"
+	}
+	"Roflmahwafflz"
+	{
+		"en" "D6015 Halls Of Death"
+	}
+	"echo"
+	{
+		"en" "D6016 Dead Echo 2"
+	}
+	"Powerstation"
+	{
+		"en" "D6017 Powerstation"
+	}
+	"left4cake2"
+	{
+		"en" "D6018 Left 4 Cake 2 v1"
+	}
+	"LBC"
+	{
+		"en" "D6019 Let's Build: Catacombs"
+	}
+	"Deathcraft2v2"
+	{
+		"en" "D6020 Deathcraft II"
+	}
+	"DeadonTime2"
+	{
+		"en" "D6021 Dead on Time 2"
+	}
+	"LastSummer"
+	{
+		"en" "D6022 Last Summer v5"
+	}
+	"ProjectAuburn2"
+	{
+		"en" "D6023 Project Auburn 2"
+	}
+	"somefun"
+	{
+		"en" "D6024 Some Fun"
+	}
+	"LB2CORE"
+	{
+		"en" "D6025 Let's Build 2 Core"
+	}
+	"Convoy"
+	{
+		"en" "D6026 Convoy"
+	}
+	"HighwayHell"
+	{
+		"en" "D6027 Highway To Hell Again"
+	}
+	"DeadCity2"
+	{
+		"en" "D6028 DeadCity II"
+	}
+	"L4D2Unreal"
+	{
+		"en" "D6029 Unreal Tournament"
+	}
+	"l4d2unrealspace"
+	{
+		"en" "D6030 L4D2 Unreal Tournament Space"
+	}
+	"l4d2unrealtournament"
+	{
+		"en" "D6031 L4D2 Unreal Tournament"
+	}
+	"MyFear"
+	{
+		"en"  "D6032 My Fear"
+	}
+	"Zelda"
+	{
+		"en"  "D6033 The Legend of Zelda"
+	}
+	"ForgottenMist"
+	{
+		"en"  "D6034 Forgotten Mist"
+	}
+	"Left4Doom"
+	{
+		"en"  "D6035 Left4Doom (1.0)"
+	}
+	"nt2013"
+	{
+		"en"  "D6036 Night Terror 2013"
+	}
+	"MobStadium2012"
+	{
+		"en"  "D6037 Mob Stadium 2012"
+	}
+	"SpaceJockeys"
+	{
+		"en"  "D6038 Space Jockeys"
+	}
+	"TheReturnOfTheJockeys"
+	{
+		"en"  "D6039 The Return of the Jockeys"
+	}
+	"LastBaktun"
+	{
+		"en"  "D6040 Last Baktun"
+	}
+	"DMRsQuickie"
+	{
+		"en"  "D6041 DMRs Quickie V2.0"
+	}
+	"deadlyending"
+	{
+		"en"  "D6042 Deadly Ending"
+	}
+	"nofate2"
+	{
+		"en"  "D6043 No Fate 2"
+	}
+	"BlackoutExtended"
+	{
+		"en"  "D6044 Blackout Extended"
+	}
+	"GoldenEye"
+	{
+		"en"  "D6045 GoldenEye"
+	}
+	"LastHeartBeat"
+	{
+		"en"  "D6046 Last HeartBeat (2.0)"
+	}
+	"ThePoliceDepartament"
+	{
+		"en"  "D6047 The Police Department"
+	}
+	"SolemnBlackout"
+	{
+		"en"  "D6048 SolemnBlackout"
+	}
+	"ClassL4D"
+	{
+		"en"  "D6049 ClassL4D"
+	}
+	"trapsmap"
+	{
+		"en"  "D6050 Traps Map 3.0"
+	}
+
+
+
+
+
+	"jsgone"
+	{
+		"en"  "D7001 Gone in 60 Smokers v3"
+	}
+	"Wolf4D"
+	{
+		"en"  "D7002 Wolf4D"
+	}
+	"fjwwV2"
+	{
+		"en"  "D7003 Wormwood"
+	}
+	"ATS1"
+	{
+		"en"  "D7004 Alien Trilogy: Section 1"
+	}
+	"Left4Dust2"
+	{
+		"en"  "D7005 Left4Dust2"
+	}
+	"midnightrr2"
+	{
+		"en"  "D7006 Midnight Rail Run"
+	}
+	"HeartbreakFridge"
+	{
+		"en"  "D7007 Heartbreak Fridge"
+	}
+	"reckoningv2"
+	{
+		"en"  "D7008 Dead Reckoning 2.0"
+	}
+	"Kaplin"
+	{
+		"en"  "D7009 China of the Dead"
+	}
+	"Tutorial"
+	{
+		"en"  "D7010 The Lost Tutorial"
+	}
+	"ProjectDreams"
+	{
+		"en"  "D7011 Project: Dreams"
+	}
+	"awaystadium"
+	{
+		"en"  "D7012 Away Stadium"
+	}
+	"tot"
+	{
+		"en"  "D7013 Tour of Terror"
+	}
+	"GettingOut"
+	{
+		"en"  "D7014 Getting Out"
+	}
+	"ultimatewoods"
+	{
+		"en"  "D7015 The Ultimate Woods"
+	}
+	"bloodhospital"
+	{
+		"en"  "D7016 Blood Hospital 2"
+	}
+	"NightPresence"
+	{
+		"en"  "D7017 NightPresence"
+	}
+	"L4D2AMilitaryHistory"
+	{
+		"en"  "D7018 A Military History L4D2 Edition"
+	}
+	"FDP"
+	{
+		"en"  "D7019 Flippin'Dead_Prequel"
+	}
+	"junglebrains"
+	{
+		"en"  "D7020 Jungle Brains 4 Ghouls"
+	}
+	"lastride"
+	{
+		"en"  "D7021 Last Ride"
+	}
+	"Cure2"
+	{
+		"en"  "D7022 Cure 2"
+	}
+	"apocalypse"
+	{
+		"en"  "D7023 Apocalypse 2"
+	}
+	"hehe8"
+	{
+		"en"  "D7024 hehe 8"
+	}
+	"DaysRepeat"
+	{
+		"en"  "D7025 DaysRepeat"
+	}
+	"themortuary"
+	{
+		"en"  "D7026 The Mortuary"
+	}
+	"APathToExit"
+	{
+		"en"  "D7027 A Path To Exit"
+	}
+	"NOMeltdown"
+	{
+		"en"  "D7028 Timelords - N. O. Meltdown"
+	}
+	"hehe7"
+	{
+		"en"  "D7029 hehe 7"
+	}
+	"hehe6"
+	{
+		"en"  "D7030 hehe 6"
+	}
+	"Thecoaster"
+	{
+		"en"  "D7031 The Coaster"
+	}
+	"Collaboration2"
+	{
+		"en"  "D7032 Collaboration 2"
+	}
+	"thereturn"
+	{
+		"en"  "D7033 The Return: The Sequel"
+	}
+	"lambda"
+	{
+		"en"  "D7034 Lambda"
+	}
+	"HAHA"
+	{
+		"en"  "D7035 HaHa"
+	}
+	"yanzhou"
+	{
+		"en"  "D7036 Yanzhou"
+	}
+	"lego4dead"
+	{
+		"en"  "D7037 Lego 4 Dead 2"
+	}
+	"ronswanson"
+	{
+		"en"  "D7038 Ron Swanson Fixed"
+	}
+	"RoadToTower"
+	{
+		"en"  "D7039 Road To Tower"
+	}
+	"hehe2"
+	{
+		"en"  "D7040 hehe 2"
+	}
+	"hehe4"
+	{
+		"en"  "D7041 hehe 4"
+	}
+	"SouthStreet3"
+	{
+		"en"  "D7042 SOUTH Street, 3"
+	}
+	"deadmines2"
+	{
+		"en"  "D7043 Dead Mines II"
+	}
+	"UpInFlames"
+	{
+		"en"  "D7044 Up In Flames (0.13)"
+	}
+	"naniwacity"
+	{
+		"en"  "D7045 Naniwa City 2"
+	}
+	"ThePunisher"
+	{
+		"en"  "D7046 The Punisher"
+	}
+	"leftinprypiat"
+	{
+		"en"  "D7047 Left In Prypiat"
+	}
+	"roadtoruin"
+	{
+		"en"  "D7048 Road to Ruin"
+	}
+	"RedCity"
+	{
+		"en"  "D7049 Red City"
+	}
+	"whispersdark"
+	{
+		"en"  "D7050 Whispers In The Dark"
+	}
+
+}
+
