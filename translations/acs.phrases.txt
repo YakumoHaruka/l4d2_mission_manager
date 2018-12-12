@@ -89,4 +89,9 @@
 		"#format"		"{1:s}"
 		"en"			"The next campaign is currently: {1}."
 	}
+	"Init vote failed"
+	{
+		"en"           "Initialize vote failed for some reason."
+	}
 }
+

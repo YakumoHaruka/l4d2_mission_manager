@@ -1,0 +1,1166 @@
+﻿"Phrases" 
+{
+	"L4D2C1"
+	{
+		"chi" "死亡中心"
+	}
+	"L4D2C2"
+	{
+		"chi" "黑暗嘉年华"
+	}
+	"L4D2C3"
+	{
+		"chi" "沼泽激战"
+	}
+	"L4D2C4"
+	{
+		"chi" "暴风骤雨"
+	}
+	"L4D2C5"
+	{
+		"chi" "教区"
+	}
+	"L4D2C6"
+	{
+		"chi" "短暂时刻"
+	}
+	"L4D2C7"
+	{
+		"chi" "牺牲"
+	}
+	"L4D2C8"
+	{
+		"chi" "毫不留情"
+	}
+	"L4D2C9"
+	{
+		"chi" "坠机险途"
+	}
+	"L4D2C10"
+	{
+		"chi" "死亡丧钟"
+	}
+	"L4D2C11"
+	{
+		"chi" "静寂时分"
+	}
+	"L4D2C12"
+	{
+		"chi" "血腥收获"
+	}
+	"L4D2C13"
+	{
+		"chi" "刺骨寒溪"
+	}
+
+	
+	"HighwayToHell"
+	{
+		// 这个似乎只是HighwayHell，也就是Hightway to Hell Again的
+		// 另一个版本？
+		"chi" "地狱之路"
+	}
+	
+
+	"hauntedforest"
+	{
+		"chi" "D0002 颤栗森林"
+	}
+	"QuestionableEthicsAlphaTest"
+	{
+		"chi" "D0003 伦理问题 2"
+	}
+	"DeadSeries"
+	{
+		"chi" "D0004 连续死亡"
+	}
+	"drdegov21"
+	{
+		"chi" "D0005 暴毙峡谷 / 死亡峡谷"
+	}
+	"YamaMSE"
+	{
+		"chi" "D0013 摩耶山危机"
+	}
+	"Claustrophobia"
+	{
+		"chi" "D0015 幽闭恐惧症"
+	}
+	"fallindeath"
+	{
+		"chi" "D0018 坠入死亡"
+	}
+	"TheBloodyMoors"
+	{
+		"chi" "D0022 血腥荒野 / 血腥的摩尔人"
+	}
+	"Diescraper36"
+	{
+		"chi" "D0031 喋血蜃楼"
+	}
+	"7HoursLaterII"
+	{
+		"chi" "D0032 七小时之后 II"
+	}
+	"TheCure"
+	{
+		"chi" "D0033 解药 / 治愈 / 医疗部队"
+	}
+	"SBTDTWO"
+	{
+		"chi" "D0034 死亡环绕 II"
+	}
+	"darkwood"
+	{
+		"chi" "D0038 黑暗森林 (加长版) v1.6.3"
+	}
+	"FarewellChenming"
+	{
+		"chi" "D0039 再见了晨茗"
+	}
+
+
+	"WhiteForest"
+	{
+		"chi" "D1001 白森林"
+	}
+	"SaltHellPark"
+	{
+		"chi" "D1010 盐井地狱公园 / 索尔特河地狱公园"
+	}
+	"2evileyes"
+	{
+		"chi" "D1012 双邪眼 / 双凶眼"
+	}
+	"shool"
+	{
+		"chi" "D1018 寂静岭：另一边的生活 V4.7"
+	}
+	"CrashBandicootTheReturn"
+	{
+		"chi" "D1032 崩溃的博士 1"
+	}
+	"l4d2CrashBandicoot2"
+	{
+		"chi" "D1033 崩溃的博士 2"
+	}
+	"NightmareHouse2"
+	{
+		"chi" "D1038 噩梦之屋 2"
+	}
+	"QuestionableEthics"
+	{
+		"chi" "D1044 伦理问题 1"
+	}
+	"deadvacation2"
+	{
+		"chi" "D1049 死亡度假2 / 死亡假期"
+	}
+
+	
+	"huichuang"
+	{
+		"chi" "D2001 灰怆"
+	}
+	"huichuang2"
+	{
+		"chi" "D2002 灰怆 2"
+	}
+	"HHHHH"
+	{
+		"chi" "D2003 shenmejb"
+	}
+	"fallen"
+	{
+		"chi" "D2005 坠落"
+	}
+	"yomimario2"
+	{
+		"chi" "D2006 超级玛丽"
+	}
+	"bot"
+	{
+		"chi" "D2007 玩具世界大乱斗"
+	}
+	"HardRainLegoTown"
+	{
+		"chi" "D2008 乐高小镇"
+	}
+	"TrueFangShi"
+	{
+		"chi" "D2009 方氏"
+	}
+	"wanli"
+	{
+		"chi" "D2011 万里"
+	}
+	"BloodTracks"
+	{
+		"chi" "D2012 血之轨迹"
+	}
+	"25toLife"
+	{
+		"chi" "D2013 终身监禁"
+	}
+	"newworldorderext"
+	{
+		"chi" "D2014 新世界秩序 修复版"
+	}
+	"NoWayOut"
+	{
+		"chi" "D2015 没有出路"
+	}
+	"nowayout2"
+	{
+		"chi" "D2016 没有出路 2"
+	}
+	"adammissionfixed"
+	{
+		"chi" "D2018 大坝的使命 修复版"
+	}
+	"damitdc"
+	{
+		"chi" "D2019 大坝 2 导演剪辑版"
+	}
+	"BloodProof"
+	{
+		"chi" "D2020 血之证明"
+	}
+	"cursedandbabbling"
+	{
+		"chi" "D2021 唠叨与诅咒 修复版"
+	}
+	"Gunk"
+	{
+		"chi" "D2022 粘液"
+	}
+	"chenchencity"
+	{
+		"chi" "D2023 晨晨市"
+	}
+	"ddntr1"
+	{
+		"chi" "D2024 死亡陷阱"
+	}
+	"DeadFlagBlues"
+	{
+		"chi" "D2025 死亡旗帜 2"
+	}
+	"kokiriforest"
+	{
+		"chi" "D2026 哥奇利森林 修复版"
+	}
+	"DeadStreet2"
+	{
+		"chi" "D2028 死亡街区 2"
+	}
+	"citycenterext"
+	{
+		"chi" "D2029 城市中心启示录 加长版"
+	}
+	"baishan"
+	{
+		"chi" "D2030 拜山"
+	}
+	"Overkill"
+	{
+		"chi" "D2031 赶尽杀绝"
+	}
+	"thedividereborn"
+	{
+		"chi" "D2032 隔绝"
+	}
+	"FatalFreight"
+	{
+		"chi" "D2033 致命货运站"
+	}
+	
+
+
+	"kaoming"
+	{
+		"chi" "D3001 尻名山"
+	}		
+	"hehe21"
+	{
+		"chi" "D3002 坦克神域"
+	}
+	"fieldofthedeadext"
+	{
+		"chi" "D3003 死亡领域"
+	}
+	"BDU"
+	{
+		"chi" "D3004 燃烧之下"
+	}
+	"baltic"
+	{
+		"chi" "D3005 波罗的海的故事"
+	}
+	"specialtask"
+	{
+		"chi" "D3006 特殊任务"
+	}	
+	"coldcasefs"
+	{
+		"chi" "D3007 铁证悬案：被遗忘者"
+	}
+	"coldcase"
+	{
+		"chi" "D3008 铁证悬案2017"
+	}	
+	"umbrella"
+	{
+		"chi" "D3009 保护伞 2.0"
+	}
+	"OrangeOnslaught"
+	{
+		"chi" "D3010 橙色突击"
+	}
+	"JTB2"
+	{
+		"chi" "D3011 恐惧 2"
+	}
+	"Fake"
+	{
+		"chi" "D3012 虚假世界"
+	}
+	"Chapter2"
+	{
+		"chi" "D3013 无处躲藏：第二章"
+	}
+	"nomoreceda"
+	{
+		"chi" "D3014 CEDA不再存在"
+	}
+	"carnage2"
+	{
+		"chi" "D3015 杀戮 2"
+	}
+	"BlackCityExtended"
+	{
+		"chi" "D3016 黑色之城"
+	}
+	"stenches"
+	{
+		"chi" "D3017 恶臭熏天"
+	}
+	"bigwat"
+	{
+		"chi" "D3018 大佛寺"
+	}
+	"lostv2"
+	{
+		"chi" "D3019 迷失"
+	}
+	"2032MC"
+	{
+		"chi" "D3020 2032"
+	}
+	
+
+
+
+	"hehe5"
+	{
+		"chi" "D4001 失落的晨未"
+	}
+	"RoadToNowhere2"
+	{
+		"chi" "D4002 灾难之路 2"
+	}
+	"TanksPlayground"
+	{
+		"chi" "D4003 坦克竞技场"
+	}
+	"dscream"
+	{
+		"chi" "D4004 死亡尖叫"
+	}
+	"darkwaters"
+	{
+		"chi" "D4005 黑暗水域"
+	}
+	"JourneyToSplashMountain"
+	{
+		"chi" "D4006 飞溅山之旅"
+	}
+	"Revenge"
+	{
+		"chi" "D4007 复仇：最后一章"
+	}
+	"fortnoesis"
+	{
+		"chi" "D4008 理性壁垒"
+	}
+	"BaysideGenocide"
+	{
+		"chi" "D4009 碧沙之斩尽杀绝"
+	}
+	"deathtrip"
+	{
+		"chi" "D4010 死亡之旅"
+	}
+	"Hideout2"
+	{
+		"chi" "D4011 完美隐藏"
+	}
+	"esctimelordsinferno"
+	{
+		"chi" "D4012 逃离地狱"
+	}
+	"EscUsingURBasicInstincts"
+	{
+		"chi" "D4013 本能逃离"
+	}
+	"escdevilschapel"
+	{
+		"chi" "D4014 逃离魔鬼教堂"
+	}
+	"soitimelordsver"
+	{
+		"chi" "D4015 感染之源"
+	}
+	"energycrisis"
+	{
+		"chi" "D4016 能源危机"
+	}
+	"DevilMountain"
+	{
+		"chi" "D4017 魔鬼山"
+	}
+	"Labirinferno"
+	{
+		"chi" "D4018 地狱迷宫"
+	}
+	"withoutname"
+	{
+		"chi" "D4019 无名丧尸电影"
+	}
+	"rkls"
+	{
+		"chi" "D4020 公路杀手"
+	}
+	"pdm"
+	{
+		"chi" "D4021 平顶山研究所"
+	}
+	"Sawrunner"
+	{
+		"chi" "D4022 幽灵炼狱"
+	}
+	"hongkong"
+	{
+		"chi" "D4023 香港"
+	}
+	"freezerburn"
+	{
+		"chi" "D4024 冰与火"
+	}
+	"BadNeighborhood"
+	{
+		"chi" "D4025 坏邻居"
+	}
+	"xxxEchoxxx"
+	{
+		"chi" "D4026 农舍撤离"
+	}
+	"deadrun"
+	{
+		"chi" "D4027 死亡狂奔"
+	}
+	"thecomplex"
+	{
+		"chi" "D4028 复杂"
+	}
+	"quedan"
+	{
+		"chi" "D4029 玛雅遗址"
+	}
+	"deadst2"
+	{
+		"chi" "D4030 死亡2号街"
+	}
+	"GoingBallistic"
+	{
+		"chi" "D4031 导弹来袭"
+	}
+	"strandead"
+	{
+		"chi" "D4032 离奇死亡"
+	}
+	"Unsdwn"
+	{
+		"chi" "D4033 丧尸侵袭"
+	}
+	"hellstorm"
+	{
+		"chi" "D4034 地狱风暴"
+	}
+	"2019IIDC"
+	{
+		"chi" "D4035 2019 II 导演剪辑版"
+	}
+	"DeadEnd"
+	{
+		"chi" "D4036 死胡同"
+	}
+	"thewoods"
+	{
+		"chi" "D4037 森林"
+	}
+	"thewoods2"
+	{
+		"chi" "D4038 森林 2"
+	}
+	"season1bossbattlearena"
+	{
+		"chi" "D4039 Boss竞技场"
+	}
+	"townescape"
+	{
+		"chi" "D4040 逃离小镇"
+	}
+	"live4ever2"
+	{
+		"chi" "D4041 活着 2"
+	}
+	"PrototypeMk3"
+	{
+		"chi" "D4042 原型三号"
+	}
+	"Greyscale"
+	{
+		"chi" "D4043 灰色"
+	}
+	"mymap"
+	{
+		"chi" "D4044 灰箱"
+	}
+	"OpenRoadICSX"
+	{
+		"chi" "D4045 绝命公路"
+	}
+	"left4bowl"
+	{
+		"chi" "D4046 逃离保龄球馆"
+	}
+	"symbyosysv12"
+	{
+		"chi" "D4047 新合作符号"
+	}
+	"marsbasealpha"
+	{
+		"chi" "D4048 火星基地"
+	}
+	"nospace4zombies"
+	{
+		"chi" "D4049 逃离外太空"
+	}
+	"DeadGetway"
+	{
+		"chi" "D4050 死亡逃脱"
+	}
+
+
+
+
+	"lotr"
+	{
+		"chi" "D5001 指环王"
+	}
+	"Deathhour"
+	{
+		"chi" "D5002 死亡时间"
+	}
+	"DeathhourNonHardcore"
+	{
+		"chi" "D5002 死亡时间 (非硬核版)"
+	}
+	"InnesRoadRash"
+	{
+		"chi" "D5003 恩尼思路障 (2.9)"
+	}
+	"thebitterend"
+	{
+		"chi" "D5004 痛苦终结"
+	}
+	"Badwater"
+	{
+		"chi" "D5005 死水盆地 (Dev 3)"
+	}
+	"ajsSilentFear"
+	{
+		"chi" "D5006 深度恐惧"
+	}
+	"UrbanDisaster"
+	{
+		"chi" "D5007 城市灾难 (1.0)"
+	}
+	"youaredoomed"
+	{
+		"chi" "D5010 命中注定"
+	}
+	"MassMaze"
+	{
+		"chi" "D5011 大迷宫"
+	}
+	"floodedswamp"
+	{
+		"chi" "D5012 偷窥者王国"
+	}
+	"deadindustry2"
+	{
+		"chi" "D5013 死亡工业区 2"
+	}
+	"nomoreindustries2"
+	{
+		"chi" "D5014 (再无)工业区 2"
+	}
+	"WelcometoHell"
+	{
+		"chi" "D5015 地狱欢迎你"
+	}
+	"lostinlinz2"
+	{
+		"chi" "D5016 迷失在林茨 2"
+	}
+	"capemurder"
+	{
+		"chi" "D5017 海角杀戮 2"
+	}
+	"Derailed"
+	{
+		"chi" "D5018 脱轨"
+	}
+	"darkblood2"
+	{
+		"chi" "D5019 黑血 2"
+	}
+	"TheAncientMaze"
+	{
+		"chi" "D5020 古代迷宫"
+	}
+	"crossingover2"
+	{
+		"chi" "D5021 跨越 2"
+	}
+	"coldfear2"
+	{
+		"chi" "D5022 不寒而栗 2"
+	}
+	"bloodysunday"
+	{
+		"chi" "D5023 血色星期天 2"
+	}
+	"DeathRowL4D2"
+	{
+		"chi" "D5024 死囚区"
+	}
+	"DeadLine2"
+	{
+		"chi" "D5025 新手好运"
+	}
+	"Deconstruction"
+	{
+		"chi" "D5026 让我们建造解构"
+	}
+	"Deconstruction2"
+	{
+		"chi" "D5027 让我们建造解构 2"
+	}
+	"EgyptianCarnage"
+	{
+		"chi" "D5028 埃及大屠杀"
+	}
+	"ggsmi"
+	{
+		"chi" "D5029 摩西岛阴影"
+	}
+	"crescendo"
+	{
+		"chi" "D5030 激情碰撞"
+	}
+	"thelastvolt"
+	{
+		"chi" "D5031 最后的电伏"
+	}
+	"zmb13"
+	{
+		"chi" "D5032 代号ZMB-13"
+	}
+	"beginninghours"
+	{
+		"chi" "D5033 开始时间"
+	}
+	"frozen"
+	{
+		"chi" "D5034 冰冻(修正版)"
+	}
+	"neverendingwar"
+	{
+		"chi" "D5035 无尽战争(修正版)"
+	}
+	"kickedout"
+	{
+		"chi" "D5036 踢出"
+	}
+	"Pac4Dead"
+	{
+		"chi" "D5037 超级吃豆人"
+	}
+	"BABEL"
+	{
+		"chi" "D5038 通天塔"
+	}
+	"Stargate"
+	{
+		"chi" "D5039 星际之门 2"
+	}
+	"kinkbyblo"
+	{
+		"chi" "D5040 前路曲折"
+	}
+	"chaostheory"
+	{
+		"chi" "D5041 混沌理论"
+	}
+	"vanillaghosthouse"
+	{
+		"chi" "D5042 香草鬼屋"
+	}
+	"VC1ub5"
+	{
+		"chi" "D5043 维也纳的呼唤 1"
+	}
+	"VC2xy6"
+	{
+		"chi" "D5044 维也纳的呼唤 2"
+	}
+	"jsarena2"
+	{
+		"chi" "D5045 死亡舞台 2"
+	}
+	"DeathAbove"
+	{
+		"chi" "D5046 死神天降"
+	}
+	"Ruination"
+	{
+		"chi" "D5047 毁灭"
+	}
+	"DeadHighSchool"
+	{
+		"chi" "D5048 死亡高校"
+	}
+	"exMala"
+	{
+		"chi" "D5049 逃离马拉巴尔"
+	}
+
+
+
+	"breaklineext"
+	{
+		"chi" "D6001 破裂线"
+	}
+	"L4D2DTClamBeta21"
+	{
+		"chi" "D6002 死亡丧钟修改版"
+	}
+	"freepassage"
+	{
+		"chi" "D6003 自由通行 2.0"
+	}
+	"pasiri"
+	{
+		"chi" "D6004 可乐之塔"
+	}
+	"behind"
+	{
+		"chi" "D6005 别被丢下"
+	}
+	"ihatemountains2"
+	{
+		"chi" "D6006 我恨山 2"
+	}
+	"DDCW"
+	{
+		"chi" "D6007 致命派遣"
+	}
+	"undeadzone"
+	{
+		"chi" "D6008 亡灵区"
+	}
+	"CarriedOff"
+	{
+		"chi" "D6009 绝境逢生"
+	}
+	"IndianaJones"
+	{
+		"chi" "D6010 夺宝奇兵之丧尸圣殿 / 印第安神庙"
+	}
+	"deathaboard2"
+	{
+		"chi" "D6011 幽灵船 2"
+	}
+	"Suburbs"
+	{
+		"chi" "D6012 城郊惊魂"
+	}
+	"RocketEscape"
+	{
+		"chi" "D6013 火箭逃离"
+	}
+	"TankArena"
+	{
+		"chi" "D6014 新坦克竞技场 v1.3"
+	}
+	"Roflmahwafflz"
+	{
+		"chi" "D6015 死亡大厅"
+	}
+	"echo"
+	{
+		"chi" "D6016 死亡回声 2"
+	}
+	"Powerstation"
+	{
+		"chi" "D6017 地下供电所"
+	}
+	"left4cake2"
+	{
+		"chi" "D6018 活蛋糕 v1"
+	}
+	"LBC"
+	{
+		"chi" "D6019 一起来建造：墓穴"
+	}
+	"Deathcraft2v2"
+	{
+		"chi" "D6020 我的世界 II"
+	}
+	"DeadonTime2"
+	{
+		"chi" "D6021 死亡时刻 2"
+	}
+	"LastSummer"
+	{
+		"chi" "D6022 去年夏天"
+	}
+	"ProjectAuburn2"
+	{
+		"chi" "D6023 污水处理厂"
+	}
+	"somefun"
+	{
+		"chi" "D6024 些许有趣的东东"
+	}
+	"LB2CORE"
+	{
+		"chi" "D6025 一起来建造2：核心"
+	}
+	"Convoy"
+	{
+		"chi" "D6026 车队"
+	}
+	"HighwayHell"
+	{
+		"chi" "D6027 地狱之路"
+	}
+	"DeadCity2"
+	{
+		"chi" "D6028 死城 2"
+	}
+	"L4D2Unreal"
+	{
+		"chi" "D6029 虚幻锦标赛"
+	}
+	"l4d2unrealspace"
+	{
+		"chi" "D6030 虚幻锦标赛：太空"
+	}
+	"l4d2unrealtournament"
+	{
+		"chi" "D6031 虚幻锦标赛"
+	}
+	"MyFear"
+	{
+		"chi"  "D6032 我的恐惧"
+	}
+	"Zelda"
+	{
+		"chi"  "D6033 塞尔达传说"
+	}
+	"ForgottenMist"
+	{
+		"chi"  "D6034 被遗忘的迷雾"
+	}
+	"Left4Doom"
+	{
+		"chi"  "D6035 求生之毁灭战士"
+	}
+	"nt2013"
+	{
+		"chi"  "D6036 夜惊2013"
+	}
+	"MobStadium2012"
+	{
+		"chi"  "D6037 民众体育场2012"
+	}
+	"SpaceJockeys"
+	{
+		"chi"  "D6038 太空骑师"
+	}
+	"TheReturnOfTheJockeys"
+	{
+		"chi"  "D6039 骑师归来"
+	}
+	"LastBaktun"
+	{
+		"chi"  "D6040 最后的骑师"
+	}
+	"DMRsQuickie"
+	{
+		"chi"  "D6041 速战速决"
+	}
+	"deadlyending"
+	{
+		"chi"  "D6042 死亡终结"
+	}
+	"nofate2"
+	{
+		"chi"  "D6043 绝非宿命 2"
+	}
+	"BlackoutExtended"
+	{
+		"chi"  "D6044 灯火管制 加长版"
+	}
+	"GoldenEye"
+	{
+		"chi"  "D6045 黄金眼"
+	}
+	"LastHeartBeat"
+	{
+		"chi"  "D6046 最后的心跳"
+	}
+	"ThePoliceDepartament"
+	{
+		"chi"  "D6047 警察局"
+	}
+	"SolemnBlackout"
+	{
+		"chi"  "D6048 圣光熄灭"
+	}
+	"ClassL4D"
+	{
+		"chi"  "D6049 班级"
+	}
+	"trapsmap"
+	{
+		"chi"  "D6050 陷阱地图 3.0"
+	}
+
+
+
+	"jsgone"
+	{
+		"chi"  "D7001 极速60秒"
+	}
+	"Wolf4D"
+	{
+		"chi"  "D7002 德军总部4D"
+	}
+	"fjwwV2"
+	{
+		"chi"  "D7003 苦艾之星"
+	}
+	"ATS1"
+	{
+		"chi"  "D7004 异形三部曲：第一章"
+	}
+	"Left4Dust2"
+	{
+		"chi"  "D7005 尘埃 2"
+	}
+	"midnightrr2"
+	{
+		"chi"  "D7006 午夜铁路"
+	}
+	"HeartbreakFridge"
+	{
+		"chi"  "D7007 冰冷的心"
+	}
+	"reckoningv2"
+	{
+		"chi"  "D7008 死亡清算 2.0 / 航位推算"
+	}
+	"Kaplin"
+	{
+		"chi"  "D7009 中国丧尸"
+	}
+	"Tutorial"
+	{
+		"chi"  "D7010 遗失的教程"
+	}
+	"ProjectDreams"
+	{
+		"chi"  "D7011 梦想计划"
+	}
+	"awaystadium"
+	{
+		"chi"  "D7012 远离运动场"
+	}
+	"tot"
+	{
+		"chi"  "D7013 恐怖之旅"
+	}
+	"GettingOut"
+	{
+		"chi"  "D7014 逃离"
+	}
+	"ultimatewoods"
+	{
+		"chi"  "D7015 最大的森林"
+	}
+	"bloodhospital"
+	{
+		"chi"  "D7016 杀戮医院 2"
+	}
+	"NightPresence"
+	{
+		"chi"  "D7017 夜色降临"
+	}
+	"L4D2AMilitaryHistory"
+	{
+		"chi"  "D7018 军事历史"
+	}
+	"FDP"
+	{
+		"chi"  "D7019 厌生：前传"
+	}
+	"junglebrains"
+	{
+		"chi"  "D7020 食尸鬼"
+	}
+	"lastride"
+	{
+		"chi"  "D7021 最后的旅程"
+	}
+	"Cure2"
+	{
+		"chi"  "D7022 解药 2 / 治愈2 / 医疗部队2"
+	}
+	"apocalypse"
+	{
+		"chi"  "D7023 启示录 2 / 大灾变"
+	}
+	"hehe8"
+	{
+		"chi"  "D7024 呵呵 8"
+	}
+	"DaysRepeat"
+	{
+		"chi"  "D7025 重复的日子"
+	}
+	"themortuary"
+	{
+		"chi"  "D7026 停尸房"
+	}
+	"APathToExit"
+	{
+		"chi"  "D7027 一条退路"
+	}
+	"NOMeltdown"
+	{
+		"chi"  "D7028 彻底垮台"
+	}
+	"hehe7"
+	{
+		"chi"  "D7029 呵呵 7：头七"
+	}
+	"hehe6"
+	{
+		"chi"  "D7030 呵呵 6"
+	}
+	"Thecoaster"
+	{
+		"chi"  "D7031 过山车 / 港口"
+	}
+	"Collaboration2"
+	{
+		"chi"  "D7032 合作 2"
+	}
+	"thereturn"
+	{
+		"chi"  "D7033 回归：续集"
+	}
+	"lambda"
+	{
+		"chi"  "D7034 半条命2：Lambda"
+	}
+	"HAHA"
+	{
+		"chi"  "D7035 哈哈"
+	}
+	"yanzhou"
+	{
+		"chi"  "D7036 扬州"
+	}
+	"lego4dead"
+	{
+		"chi"  "D7037 乐高"
+	}
+	"ronswanson"
+	{
+		"chi"  "D7038 罗恩斯旺森"
+	}
+	"RoadToTower"
+	{
+		"chi"  "D7039 前往高塔"
+	}
+	"hehe2"
+	{
+		"chi"  "D7040 呵呵 2"
+	}
+	"hehe4"
+	{
+		"chi"  "D7041 呵呵 4"
+	}
+	"SouthStreet3"
+	{
+		"chi"  "D7042 南大街 3"
+	}
+	"deadmines2"
+	{
+		"chi"  "D7043 死亡矿井 2"
+	}
+	"UpInFlames"
+	{
+		"chi"  "D7044 焚烧"
+	}
+	"naniwacity"
+	{
+		"chi"  "D7045 大阪感染 2"
+	}
+	"ThePunisher"
+	{
+		"chi"  "D7046 惩罚者"
+	}
+	"leftinprypiat"
+	{
+		"chi"  "D7047 逃离普里皮亚季"
+	}
+	"roadtoruin"
+	{
+		"chi"  "D7048 绝路"
+	}
+	"RedCity"
+	{
+		"chi"  "D7049 红城"
+	}
+	"whispersdark"
+	{
+		"chi"  "D7050 暗中低语"
+	}
+}
