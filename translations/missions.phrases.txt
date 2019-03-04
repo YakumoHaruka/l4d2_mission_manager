@@ -52,6 +52,9 @@
     {
         "en" "Cold Stream"
     }
+
+
+
     "2019IIDC"
     {
         "en" "2019 II: Director's Cut"
@@ -67,6 +70,10 @@
     "2evileyes"
     {
         "en" "Evil Eyes"
+    }
+    "4xflut3S3ezxs"
+    {
+        "en" "Sequentia Absoluta"
     }
     "7HoursLaterII"
     {
@@ -87,6 +94,14 @@
     "apocalypse"
     {
         "en" "Apocalypse 2"
+    }
+    "Aquarius"
+    {
+        "en" "Aquarius"
+    }
+    "arklay"
+    {
+        "en" "Resident Evil 1"
     }
     "ATS1"
     {
@@ -124,6 +139,10 @@
     {
         "en" "Burning Down Under"
     }
+    "beaver"
+    {
+        "en" "Beaver's Place"
+    }
     "beginninghours"
     {
         "en" "Beginning Hours"
@@ -131,6 +150,10 @@
     "behind"
     {
         "en" "Left Behind"
+    }
+    "BelowSurface"
+    {
+        "en" "Below Surface"
     }
     "bigwat"
     {
@@ -168,6 +191,10 @@
     {
         "en" "Breakline Ext L4D1 Ports"
     }
+    "burningnight"
+    {
+        "en" "Burning Night"
+    }
     "capemurder"
     {
         "en" "Cape Murder 2"
@@ -179,6 +206,10 @@
     "CarriedOff"
     {
         "en" "Carried Off"
+    }
+    "Centro"
+    {
+        "en" "Centro"
     }
     "chaostheory"
     {
@@ -219,6 +250,10 @@
     "Collaboration2"
     {
         "en" "Collaboration 2"
+    }
+    "complexcourseR"
+    {
+        "en" "Complex Course"
     }
     "Convoy"
     {
@@ -276,6 +311,10 @@
     {
         "en" "DeadCity II"
     }
+    "deaddestination"
+    {
+        "en" "Dead Destination"
+    }
     "DeadEnd"
     {
         "en" "Dead End"
@@ -295,6 +334,10 @@
     "deadindustry2"
     {
         "en" "Dead Industry 2"
+    }
+    "DeadJailhardName"
+    {
+        "en" "Dead Jail - Hard"
     }
     "DeadLine2"
     {
@@ -328,6 +371,10 @@
     {
         "en" "Dead Street 2 (2.0)"
     }
+    "deadstreet"
+    {
+        "en" "Dead St 16"
+    }
     "deadvacation2"
     {
         "en" "Dead Vacation 2"
@@ -355,6 +402,10 @@
     "DeathRowL4D2"
     {
         "en" "Death Row L4D2"
+    }
+    "DeathStopL4D2"
+    {
+        "en" "Death Stop L4D2"
     }
     "deathtrip"
     {
@@ -448,6 +499,10 @@
     {
         "en" "Field of the Dead Ext TLM Ver"
     }
+    "Finalescape"
+    {
+        "en" "Final escape"
+    }
     "fjwwV2"
     {
         "en" "Wormwood"
@@ -455,6 +510,10 @@
     "floodedswamp"
     {
         "en" "Voyeur Country"
+    }
+    "fnaf1"
+    {
+        "en" "Freddy Fazbear's Pizzeria"
     }
     "ForgottenMist"
     {
@@ -575,6 +634,10 @@
     "huichuang"
     {
         "en" "HuiChuang"
+    }
+    "Hystyria"
+    {
+        "en" "Hystyria"
     }
     "ihatemountains2"
     {
@@ -700,6 +763,10 @@
     {
         "en" "Left4Dust2"
     }
+    "Left4SGC"
+    {
+        "en" "Left4SGC BETA 2.0"
+    }
     "leftinprypiat"
     {
         "en" "Left In Prypiat"
@@ -751,6 +818,10 @@
     "naniwacity"
     {
         "en" "Naniwa City 2"
+    }
+    "NapalmDeath"
+    {
+        "en" "Napalm Death"
     }
     "neverendingwar"
     {
@@ -808,6 +879,10 @@
     {
         "en" "Orange Onslaught"
     }
+    "Outbreak"
+    {
+        "en" "Resident Evil Outbreak"
+    }
     "Overkill"
     {
         "en" "Overkill"
@@ -815,6 +890,10 @@
     "Pac4Dead"
     {
         "en" "Pac4Dead"
+    }
+    "ParishBeta"
+    {
+        "en" "The Parish The Beta Map"
     }
     "pasiri"
     {
@@ -852,6 +931,18 @@
     {
         "en" "Questionable Ethics 1"
     }
+    "re2a"
+    {
+        "en" "Resident Evil 2: Side A"
+    }
+    "re2b"
+    {
+        "en" "Resident Evil 2: Side B"
+    }
+    "re3"
+    {
+        "en" "Resident Evil 3"
+    }
     "reckoningv2"
     {
         "en" "Dead Reckoning 2.0"
@@ -867,6 +958,10 @@
     "rkls"
     {
         "en" "Roadkill"
+    }
+    "roadtof18"
+    {
+        "en" "Road To F18"
     }
     "RoadToNowhere2"
     {
@@ -896,6 +991,10 @@
     {
         "en" "Ruination"
     }
+    "RuralTour"
+    {
+        "en" "Rural Tour"
+    }
     "SaltHellPark"
     {
         "en" "Salt Hell Park"
@@ -915,6 +1014,10 @@
     "shool"
     {
         "en" "Silent Hill: Otherside of Life V4.7"
+    }
+    "SkippingClass"
+    {
+        "en" "Skipping Class"
     }
     "soitimelordsver"
     {
@@ -936,6 +1039,10 @@
     {
         "en" "Space Jockeys"
     }
+    "SpaceTripREVAMP"
+    {
+        "en" "Space trip REVAMP"
+    }
     "specialtask"
     {
         "en" "Special Task L4D2"
@@ -948,6 +1055,10 @@
     {
         "en" "Stenches"
     }
+    "stormingcitadelalpha"
+    {
+        "en" "Storming The Citadel"
+    }
     "strandead"
     {
         "en" "Strandead L4D2"
@@ -959,6 +1070,10 @@
     "symbyosysv12"
     {
         "en" "SymbyosysV12"
+    }
+    "taiji"
+    {
+        "en" "Kong Fu Tai Chi"
     }
     "TankArena"
     {
@@ -996,6 +1111,10 @@
     {
         "en" "The Divide: Reborn"
     }
+    "TheHive"
+    {
+        "en" "The Hive"
+    }
     "thelastvolt"
     {
         "en" "The Last Volt"
@@ -1011,6 +1130,10 @@
     "ThePunisher"
     {
         "en" "The Punisher"
+    }
+    "ThereIsOnlyOneWay"
+    {
+        "en" "There is only one way"
     }
     "thereturn"
     {
@@ -1048,6 +1171,10 @@
     {
         "en" "The Lost Tutorial"
     }
+    "TwistedFates"
+    {
+        "en" "Twisted Fates"
+    }
     "ultimatewoods"
     {
         "en" "The Ultimate Woods"
@@ -1072,6 +1199,10 @@
     {
         "en" "Urban Disaster (1.0)"
     }
+    "UrbanUnderground"
+    {
+        "en" "Urban Underground 1.2"
+    }
     "vanillaghosthouse"
     {
         "en" "Vanilla Ghost House"
@@ -1088,6 +1219,10 @@
     {
         "en" "Wan Li"
     }
+    "WARPCORE"
+    {
+        "en" "Warp Core"
+    }
     "WelcometoHell"
     {
         "en" "Welcome to Hell"
@@ -1100,6 +1235,10 @@
     {
         "en" "White Forest"
     }
+    "wildride"
+    {
+        "en" "Wild Ride"
+    }
     "withoutname"
     {
         "en" "Zombie Movie Without Name!"
@@ -1107,6 +1246,10 @@
     "Wolf4D"
     {
         "en" "Wolf4D"
+    }
+    "Woodfall"
+    {
+        "en" "ClockTown Beta / Woodfall"
     }
     "xxxEchoxxx"
     {
@@ -1131,6 +1274,10 @@
     "Zelda"
     {
         "en" "The Legend of Zelda"
+    }
+    "zerowarning"
+    {
+        "en" "Zero Warning"
     }
     "zmb13"
     {

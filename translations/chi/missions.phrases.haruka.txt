@@ -124,6 +124,22 @@
 	{
 		"chi" "D1001 白森林"
 	}
+	"arklay"
+	{
+		"chi" "D1002 生化危机 1"
+	}
+	"re2b"
+	{
+		"chi" "D1003 生化危机 2 - B"
+	}
+	"re2a"
+	{
+		"chi" "D1004 生化危机 2 - A"
+	}
+	"re3"
+	{
+		"chi" "D1005 生化危机 3：复仇女神"
+	}
 	"SaltHellPark"
 	{
 		"chi" "D1010 盐井地狱公园 / 索尔特河地狱公园"
@@ -135,6 +151,14 @@
 	"shool"
 	{
 		"chi" "D1018 寂静岭：另一边的生活 V4.7"
+	}
+	"complexcourseR"
+	{
+		"chi" "D1019 复杂的过程"
+	}
+	"TheHive"
+	{
+		"chi" "D1028 生化危机：蜂巢"
 	}
 	"CrashBandicootTheReturn"
 	{
@@ -311,7 +335,7 @@
 	}	
 	"umbrella"
 	{
-		"chi" "D3009 保护伞 2.0"
+		"chi" "D3009 生化危机：保护伞 2.0"
 	}
 	"OrangeOnslaught"
 	{
@@ -1163,4 +1187,130 @@
 	{
 		"chi"  "D7050 暗中低语"
 	}
+
+
+
+	"burningnight"
+	{
+		"chi"  "D8001 燃烧之夜"
+	}
+	"deadstreet"
+	{
+		"chi"  "D8002 死圣"
+	}
+	"beaver"
+	{
+		"chi"  "D8003 海狸之地"
+	}
+	"fnaf1"
+	{
+		"chi"  "D8004 玩具熊的披萨餐厅"
+	}
+	"BelowSurface"
+	{
+		"chi"  "D8005 地表之下"
+	}
+	"Finalescape"
+	{
+		"chi"  "D8006 救援大观 / 最终逃离 / 致命逃亡"
+	}
+	"stormingcitadelalpha"
+	{
+		"chi"  "D8007 风暴要塞"
+	}
+	"ThereIsOnlyOneWay"
+	{
+		"chi"  "D8008 只此一路"
+	}
+	"UrbanUnderground"
+	{
+		"chi"  "D8009 地下城市"
+	}
+	"DeadJailhardName"
+	{
+		"chi"  "D8010 死亡监狱"
+	}
+	"taiji"
+	{
+		"chi"  "D8011 太极"
+	}
+	"Woodfall"
+	{
+		"chi"  "D8012 钟镇"
+	}
+	"ParishBeta"
+	{
+		"chi"  "D8013 教区原貌"
+	}
+	"Left4SGC"
+	{
+		"chi"  "D8014 星际之门测试版V2.0"
+	}
+	"RuralTour"
+	{
+		"chi"  "D8015 喋血乡间"
+	}
+	"WARPCORE"
+	{
+		"chi"  "D8016 曲速核心"
+	}
+	"deaddestination"
+	{
+		"chi"  "D8017 死亡终点"
+	}
+	"SkippingClass"
+	{
+		"chi"  "D8018 逃课"
+	}
+	"SpaceTripREVAMP"
+	{
+		"chi"  "D8019 太空之旅"
+	}
+	"TwistedFates"
+	{
+		"chi"  "D8020 曲折的命运"
+	}
+	"Hystyria"
+	{
+		"chi"  "D8021 歇斯底里 / 海斯特里亚 / 逃离施蒂里亚"
+	}
+	"Outbreak"
+	{
+		"chi"  "D8022 生化危机：爆发"
+	}
+	"zerowarning"
+	{
+		"chi"  "D8023 没有警告"
+	}
+	"DeathStopL4D2"
+	{
+		"chi"  "D8024 死亡终点站"
+	}
+	"Aquarius"
+	{
+		"chi"  "D8025 水瓶座"
+	}
+	"NapalmDeath"
+	{
+		"chi"  "D8026 死亡汽油弹"
+	}
+	"wildride"
+	{
+		"chi"  "D8027 狂奔"
+	}
+	"roadtof18"
+	{
+		"chi"  "D8028 空军之路 / F18之路"
+	}
+	"Centro"
+	{
+		"chi"  "D8029 市中心"
+	}
+	"4xflut3S3ezxs"
+	{
+		"chi"  "D8030 绝对零度：尾声"
+	}
+
+
+
 }

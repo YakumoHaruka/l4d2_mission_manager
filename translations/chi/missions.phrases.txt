@@ -52,6 +52,9 @@
     {
         "chi" "刺骨寒溪"
     }
+
+
+
     "2019IIDC"
     {
         "chi" "2019 II 导演剪辑版"
@@ -67,6 +70,10 @@
     "2evileyes"
     {
         "chi" "双邪眼 / 双凶眼"
+    }
+    "4xflut3S3ezxs"
+    {
+        "chi" "绝对零度：尾声"
     }
     "7HoursLaterII"
     {
@@ -87,6 +94,14 @@
     "apocalypse"
     {
         "chi" "启示录 2 / 大灾变"
+    }
+    "Aquarius"
+    {
+        "chi" "水瓶座"
+    }
+    "arklay"
+    {
+        "chi" "生化危机 1"
     }
     "ATS1"
     {
@@ -124,6 +139,10 @@
     {
         "chi" "燃烧之下"
     }
+    "beaver"
+    {
+        "chi" "海狸之地"
+    }
     "beginninghours"
     {
         "chi" "开始时间"
@@ -131,6 +150,10 @@
     "behind"
     {
         "chi" "别被丢下"
+    }
+    "BelowSurface"
+    {
+        "chi" "地表之下"
     }
     "bigwat"
     {
@@ -168,6 +191,10 @@
     {
         "chi" "破裂线"
     }
+    "burningnight"
+    {
+        "chi" "燃烧之夜"
+    }
     "capemurder"
     {
         "chi" "海角杀戮 2"
@@ -179,6 +206,10 @@
     "CarriedOff"
     {
         "chi" "绝境逢生"
+    }
+    "Centro"
+    {
+        "chi" "市中心"
     }
     "chaostheory"
     {
@@ -219,6 +250,10 @@
     "Collaboration2"
     {
         "chi" "合作 2"
+    }
+    "complexcourseR"
+    {
+        "chi" "复杂的过程"
     }
     "Convoy"
     {
@@ -276,6 +311,10 @@
     {
         "chi" "死城 2"
     }
+    "deaddestination"
+    {
+        "chi" "死亡终点"
+    }
     "DeadEnd"
     {
         "chi" "死胡同"
@@ -295,6 +334,10 @@
     "deadindustry2"
     {
         "chi" "死亡工业区 2"
+    }
+    "DeadJailhardName"
+    {
+        "chi" "死亡监狱"
     }
     "DeadLine2"
     {
@@ -328,6 +371,10 @@
     {
         "chi" "死亡街区 2"
     }
+    "deadstreet"
+    {
+        "chi" "死圣"
+    }
     "deadvacation2"
     {
         "chi" "死亡度假2 / 死亡假期"
@@ -355,6 +402,10 @@
     "DeathRowL4D2"
     {
         "chi" "死囚区"
+    }
+    "DeathStopL4D2"
+    {
+        "chi" "死亡终点站"
     }
     "deathtrip"
     {
@@ -448,6 +499,10 @@
     {
         "chi" "死亡领域"
     }
+    "Finalescape"
+    {
+        "chi" "救援大观 / 最终逃离 / 致命逃亡"
+    }
     "fjwwV2"
     {
         "chi" "苦艾之星"
@@ -455,6 +510,10 @@
     "floodedswamp"
     {
         "chi" "偷窥者王国"
+    }
+    "fnaf1"
+    {
+        "chi" "玩具熊的披萨餐厅"
     }
     "ForgottenMist"
     {
@@ -576,6 +635,10 @@
     {
         "chi" "灰怆"
     }
+    "Hystyria"
+    {
+        "chi" "歇斯底里 / 海斯特里亚 / 逃离施蒂里亚"
+    }
     "ihatemountains2"
     {
         "chi" "我恨山 2"
@@ -586,7 +649,7 @@
     }
     "InnesRoadRash"
     {
-        "chi" "恩尼思路障"
+        "chi" "恩尼思路障 (2.9)"
     }
     "JourneyToSplashMountain"
     {
@@ -700,6 +763,10 @@
     {
         "chi" "尘埃 2"
     }
+    "Left4SGC"
+    {
+        "chi" "星际之门测试版V2.0"
+    }
     "leftinprypiat"
     {
         "chi" "逃离普里皮亚季"
@@ -751,6 +818,10 @@
     "naniwacity"
     {
         "chi" "大阪感染 2"
+    }
+    "NapalmDeath"
+    {
+        "chi" "死亡汽油弹"
     }
     "neverendingwar"
     {
@@ -808,6 +879,10 @@
     {
         "chi" "橙色突击"
     }
+    "Outbreak"
+    {
+        "chi" "生化危机：爆发"
+    }
     "Overkill"
     {
         "chi" "赶尽杀绝"
@@ -815,6 +890,10 @@
     "Pac4Dead"
     {
         "chi" "超级吃豆人"
+    }
+    "ParishBeta"
+    {
+        "chi" "教区原貌"
     }
     "pasiri"
     {
@@ -852,6 +931,18 @@
     {
         "chi" "伦理问题 1"
     }
+    "re2a"
+    {
+        "chi" "生化危机 2 - A"
+    }
+    "re2b"
+    {
+        "chi" "生化危机 2 - B"
+    }
+    "re3"
+    {
+        "chi" "生化危机 3：复仇女神"
+    }
     "reckoningv2"
     {
         "chi" "死亡清算 2.0 / 航位推算"
@@ -867,6 +958,10 @@
     "rkls"
     {
         "chi" "公路杀手"
+    }
+    "roadtof18"
+    {
+        "chi" "空军之路 / F18之路"
     }
     "RoadToNowhere2"
     {
@@ -896,6 +991,10 @@
     {
         "chi" "毁灭"
     }
+    "RuralTour"
+    {
+        "chi" "喋血乡间"
+    }
     "SaltHellPark"
     {
         "chi" "盐井地狱公园 / 索尔特河地狱公园"
@@ -915,6 +1014,10 @@
     "shool"
     {
         "chi" "寂静岭：另一边的生活 V4.7"
+    }
+    "SkippingClass"
+    {
+        "chi" "逃课"
     }
     "soitimelordsver"
     {
@@ -936,6 +1039,10 @@
     {
         "chi" "太空骑师"
     }
+    "SpaceTripREVAMP"
+    {
+        "chi" "太空之旅"
+    }
     "specialtask"
     {
         "chi" "特殊任务"
@@ -948,6 +1055,10 @@
     {
         "chi" "恶臭熏天"
     }
+    "stormingcitadelalpha"
+    {
+        "chi" "风暴要塞"
+    }
     "strandead"
     {
         "chi" "离奇死亡"
@@ -959,6 +1070,10 @@
     "symbyosysv12"
     {
         "chi" "新合作符号"
+    }
+    "taiji"
+    {
+        "chi" "太极"
     }
     "TankArena"
     {
@@ -996,6 +1111,10 @@
     {
         "chi" "隔绝"
     }
+    "TheHive"
+    {
+        "chi" "生化危机：蜂巢"
+    }
     "thelastvolt"
     {
         "chi" "最后的电伏"
@@ -1011,6 +1130,10 @@
     "ThePunisher"
     {
         "chi" "惩罚者"
+    }
+    "ThereIsOnlyOneWay"
+    {
+        "chi" "只此一路"
     }
     "thereturn"
     {
@@ -1048,13 +1171,17 @@
     {
         "chi" "遗失的教程"
     }
+    "TwistedFates"
+    {
+        "chi" "曲折的命运"
+    }
     "ultimatewoods"
     {
         "chi" "最大的森林"
     }
     "umbrella"
     {
-        "chi" "保护伞 2.0"
+        "chi" "生化危机：保护伞 2.0"
     }
     "undeadzone"
     {
@@ -1072,6 +1199,10 @@
     {
         "chi" "城市灾难 (1.0)"
     }
+    "UrbanUnderground"
+    {
+        "chi" "地下城市"
+    }
     "vanillaghosthouse"
     {
         "chi" "香草鬼屋"
@@ -1088,6 +1219,10 @@
     {
         "chi" "万里"
     }
+    "WARPCORE"
+    {
+        "chi" "曲速核心"
+    }
     "WelcometoHell"
     {
         "chi" "地狱欢迎你"
@@ -1100,6 +1235,10 @@
     {
         "chi" "白森林"
     }
+    "wildride"
+    {
+        "chi" "狂奔"
+    }
     "withoutname"
     {
         "chi" "无名丧尸电影"
@@ -1107,6 +1246,10 @@
     "Wolf4D"
     {
         "chi" "德军总部4D"
+    }
+    "Woodfall"
+    {
+        "chi" "钟镇"
     }
     "xxxEchoxxx"
     {
@@ -1131,6 +1274,10 @@
     "Zelda"
     {
         "chi" "塞尔达传说"
+    }
+    "zerowarning"
+    {
+        "chi" "没有警告"
     }
     "zmb13"
     {
