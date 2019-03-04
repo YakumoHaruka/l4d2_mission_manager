@@ -126,6 +126,22 @@
 	{
 		"en" "D1001 White Forest"
 	}
+	"arklay"
+	{
+		"en" "D1002 Resident Evil 1"
+	}
+	"re2b"
+	{
+		"en" "D1003 Resident Evil 2: Side B"
+	}
+	"re2a"
+	{
+		"en" "D1004 Resident Evil 2: Side A"
+	}
+	"re3"
+	{
+		"en" "D1005 Resident Evil 3"
+	}
 	"SaltHellPark"
 	{
 		"en" "D1010 Salt Hell Park"
@@ -137,6 +153,14 @@
 	"shool"
 	{
 		"en" "D1018 Silent Hill: Otherside of Life V4.7"
+	}
+	"complexcourseR"
+	{
+		"en" "D1019 Complex Course"
+	}
+	"TheHive"
+	{
+		"en" "D1028 The Hive"
 	}
 	"CrashBandicootTheReturn"
 	{
@@ -1176,6 +1200,130 @@
 	{
 		"en"  "D7050 Whispers In The Dark"
 	}
+
+
+
+	"burningnight"
+	{
+		"en"  "D8001 Burning Night"
+	}
+	"deadstreet"
+	{
+		"en"  "D8002 Dead St 16"
+	}
+	"beaver"
+	{
+		"en"  "D8003 Beaver's Place"
+	}
+	"fnaf1"
+	{
+		"en"  "D8004 Freddy Fazbear's Pizzeria"
+	}
+	"BelowSurface"
+	{
+		"en"  "D8005 Below Surface"
+	}
+	"Finalescape"
+	{
+		"en"  "D8006 Final escape"
+	}
+	"stormingcitadelalpha"
+	{
+		"en"  "D8007 Storming The Citadel"
+	}
+	"ThereIsOnlyOneWay"
+	{
+		"en"  "D8008 There is only one way"
+	}
+	"UrbanUnderground"
+	{
+		"en"  "D8009 Urban Underground 1.2"
+	}
+	"DeadJailhardName"
+	{
+		"en"  "D8010 Dead Jail - Hard"
+	}
+	"taiji"
+	{
+		"en"  "D8011 Kong Fu Tai Chi"
+	}
+	"Woodfall"
+	{
+		"en"  "D8012 ClockTown Beta / Woodfall"
+	}
+	"ParishBeta"
+	{
+		"en"  "D8013 The Parish The Beta Map"
+	}
+	"Left4SGC"
+	{
+		"en"  "D8014 Left4SGC BETA 2.0"
+	}
+	"RuralTour"
+	{
+		"en"  "D8015 Rural Tour"
+	}
+	"WARPCORE"
+	{
+		"en"  "D8016 Warp Core"
+	}
+	"deaddestination"
+	{
+		"en"  "D8017 Dead Destination"
+	}
+	"SkippingClass"
+	{
+		"en"  "D8018 Skipping Class"
+	}
+	"SpaceTripREVAMP"
+	{
+		"en"  "D8019 Space trip REVAMP"
+	}
+	"TwistedFates"
+	{
+		"en"  "D8020 Twisted Fates"
+	}
+	"Hystyria"
+	{
+		"en"  "D8021 Hystyria"
+	}
+	"Outbreak"
+	{
+		"en"  "D8022 Resident Evil Outbreak"
+	}
+	"zerowarning"
+	{
+		"en"  "D8023 Zero Warning"
+	} 
+	"DeathStopL4D2"
+	{
+		"en" "D8024 Death Stop L4D2"
+	}
+	"Aquarius"
+	{
+		"en" "D8025 Aquarius"
+	}
+	"NapalmDeath"
+	{
+		"en" "D8026 Napalm Death"
+	}
+	"wildride"
+	{
+		"en" "D8027 Wild Ride"
+	}
+	"roadtof18"
+	{
+		"en" "D8028 Road To F18"
+	}
+	"Centro"
+	{
+		"en" "D8029 Centro"
+	}
+	"4xflut3S3ezxs"
+	{
+		"en" "D8030 Sequentia Absoluta"
+	}
+
 
 }
 
