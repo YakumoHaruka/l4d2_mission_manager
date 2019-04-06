@@ -219,7 +219,8 @@ public Action Timer_ChangeMap(Handle timer, DataPack dp) {
 	
 	dp.Reset();
 	dp.ReadString(mapName, sizeof(mapName));
-	
+
+	ShutDownScriptedMode();
 	ForceChangeLevel(mapName, "Admin forced a map change");
 	
 	return Plugin_Stop;
