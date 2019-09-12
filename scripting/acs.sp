@@ -30,6 +30,7 @@
 		Community 1-5
 
 	Change Log
+        v2.0.3-yh (Apr 7, 2019) - Merge rikka/lux's ShutdownScriptedMode code
         v2.0.2-yh (Nov 22, 2018)- New chmap/chmap2 vote policy 3 
                                 - Only one chmap/chmap2 vote at a time
                                 - Player disconnected during vote will be excluded
@@ -88,7 +89,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define PLUGIN_VERSION	"2.0.2-yh"
+#define PLUGIN_VERSION	"2.0.3-yh"
 
 //Define the wait time after round before changing to the next map in each game mode
 #define WAIT_TIME_BEFORE_SWITCH_COOP			5.0
@@ -1147,7 +1148,8 @@ public Action Timer_ChangeMap(Handle timer, DataPack dp) {
 	
 	dp.Reset();
 	dp.ReadString(mapName, sizeof(mapName));
-	
+
+	ShutDownScriptedMode();
 	ForceChangeLevel(mapName, "sm_votemap Result");
 	
 	return Plugin_Stop;
@@ -1678,6 +1680,8 @@ public Action Timer_CheckEmptyServer(Handle timer, any param) {
 			char mapName[LEN_MAP_FILENAME];
 			ACS_GetFirstMapName(g_iGameMode, 0, mapName, sizeof(mapName));
 			LogMessage("Empty server is running 3-rd map, switching to the first official map!");
+
+            //ShutDownScriptedMode(); i guess we would need the signiture here :P
 			ForceChangeLevel(mapName, "Empty server with 3-rd map");			
 		}
 	} else {

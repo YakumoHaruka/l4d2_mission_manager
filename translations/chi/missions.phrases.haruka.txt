@@ -60,7 +60,10 @@
 		// 另一个版本？
 		"chi" "地狱之路"
 	}
-	
+	"TokyoDark"
+	{
+		"chi" "东京暗影"
+	}
 
 	"hauntedforest"
 	{
@@ -78,6 +81,10 @@
 	{
 		"chi" "D0005 暴毙峡谷 / 死亡峡谷"
 	}
+	"goldeneye4dead"
+	{
+		"chi" "D0009 黄金眼：4人死亡"
+	}
 	"YamaMSE"
 	{
 		"chi" "D0013 摩耶山危机"
@@ -93,6 +100,10 @@
 	"TheBloodyMoors"
 	{
 		"chi" "D0022 血腥荒野 / 血腥的摩尔人"
+	}
+	"Escansion"
+	{
+		"chi" "D0028 逃出升天 / 阿森松岛 / 韵律"
 	}
 	"Diescraper36"
 	{
@@ -140,6 +151,10 @@
 	{
 		"chi" "D1005 生化危机 3：复仇女神"
 	}
+	"ravenholmwar2"
+	{
+		"chi" "D1007 我们不去莱温霍姆"
+	}
 	"SaltHellPark"
 	{
 		"chi" "D1010 盐井地狱公园 / 索尔特河地狱公园"
@@ -148,6 +163,10 @@
 	{
 		"chi" "D1012 双邪眼 / 双凶眼"
 	}
+	"Z3r04Bs0lut3971"
+	{
+		"chi" "D1017 绝对零度"
+	}
 	"shool"
 	{
 		"chi" "D1018 寂静岭：另一边的生活 V4.7"
@@ -155,6 +174,10 @@
 	"complexcourseR"
 	{
 		"chi" "D1019 复杂的过程"
+	}
+	"coaldblood" 
+	{
+		"chi" "D1027 冷血 2"
 	}
 	"TheHive"
 	{
@@ -168,9 +191,25 @@
 	{
 		"chi" "D1033 崩溃的博士 2"
 	}
+	"warcelona"
+	{
+		"chi" "D1034 巴塞罗那"
+	}
+	"DeathMountain"
+	{
+		"chi" "D1031 死亡山脉"
+	}
 	"NightmareHouse2"
 	{
 		"chi" "D1038 噩梦之屋 2"
+	}
+	"reversebh"
+	{
+		"chi" "D1039 逆向血腥收获"
+	}
+	"Dniepr"
+	{
+		"chi" "D1042 切尔诺贝利 / 人生并非事事如意"
 	}
 	"QuestionableEthics"
 	{
@@ -1310,7 +1349,41 @@
 	{
 		"chi"  "D8030 绝对零度：尾声"
 	}
-
-
-
+	"LeftTurnSilentHill3"
+	{
+		"chi"  "D8031 寂静岭 3"
+	}
+	"qiuming"
+	{
+		"chi" "D8032 秋明市"
+	}
+	"TheCurseofLazarCastle"
+	{
+		"chi" "D8033 拉扎尔城堡的诅咒 / 城堡诅咒"
+	}
+	"hometown"
+	{
+		"chi" "D8034 故乡"
+	}
+	"eye"
+	{
+		"chi" "D8035 异度神召"
+	}
+	"Downpour"
+	{
+		"chi" "D8036 暴风骤雨：暴雨"
+	}
+	"DarkCarnivalRemix"
+	{
+		"chi" "D8037 黑暗嘉年华 Remix版"
+	}
+	"whispersofwinter"
+	{
+		"chi" "D8038 冬日的低语"
+	}
+	"ZPTZ"
+	{
+		"chi" "D8039 Z-PTZ / 丧尸俄城"
+	}
 }
+
