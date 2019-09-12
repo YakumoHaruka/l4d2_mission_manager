@@ -61,7 +61,10 @@
 		// maps as HighwayHell, which called "Highway to Hell Again"
 		"en" "Highway To Hell"
 	}
-
+	"TokyoDark"
+	{
+		"en" "Tokyo Dark"
+	}
 
 
 	"hauntedforest"
@@ -80,6 +83,10 @@
 	{
 		"en" "D0005 Drop Dead Gorges"
 	}
+	"goldeneye4dead"
+	{
+		"en" "D0009 GoldenEye 4 Dead Fixed"
+	}
 	"YamaMSE"
 	{
 		"en" "D0013 Yama"
@@ -95,6 +102,10 @@
 	"TheBloodyMoors"
 	{
 		"en" "D0022 The Bloody Moors"
+	}
+	"Escansion"
+	{
+		"en" "D0028 Escansion"
 	}
 	"Diescraper36"
 	{
@@ -142,13 +153,21 @@
 	{
 		"en" "D1005 Resident Evil 3"
 	}
+	"ravenholmwar2"
+	{
+		"en" "D1007 We Don't Go To Ravenholm 2"
+	}
 	"SaltHellPark"
 	{
 		"en" "D1010 Salt Hell Park"
 	}
 	"2evileyes"
 	{
-		"en" "D1012 Evil Eyes"
+		"en" "D1012 2 Evil Eyes"
+	}
+	"Z3r04Bs0lut3971"
+	{
+		"en" "D1017 Absolute Zero"
 	}
 	"shool"
 	{
@@ -158,9 +177,17 @@
 	{
 		"en" "D1019 Complex Course"
 	}
+	"coaldblood" 
+	{
+		"en" "D1027 Coal'd Blood 2"
+	}
 	"TheHive"
 	{
 		"en" "D1028 The Hive"
+	}
+	"DeathMountain"
+	{
+		"en" "D1031 Death Mountain"
 	}
 	"CrashBandicootTheReturn"
 	{
@@ -170,9 +197,21 @@
 	{
 		"en" "D1033 CrashBandicoot 2"
 	}
+	"warcelona"
+	{
+		"en" "D1034 Warcelona"
+	}
 	"NightmareHouse2"
 	{
 		"en" "D1038 Nightmare House 2"
+	}
+	"reversebh"
+	{
+		"en" "D1039 Reverse Blood Harvest 2"
+	}
+	"Dniepr"
+	{
+		"en" "D1042 Dniepr: Life is not a bed of roses"
 	}
 	"QuestionableEthics"
 	{
@@ -1323,7 +1362,41 @@
 	{
 		"en" "D8030 Sequentia Absoluta"
 	}
-
-
+	"LeftTurnSilentHill3"
+	{
+		"en" "D8031 Left Turn Silent Hill 3"
+	}
+	"qiuming"
+	{
+		"en" "D8032 QiuMing City"
+	}
+	"TheCurseofLazarCastle"
+	{
+		"en" "D8033 The Curse of Lazar Castle"
+	}
+	"hometown"
+	{
+		"en" "D8034 Hometown"
+	}
+	"eye"
+	{
+		"en" "D8035 Divine Cybermancy"
+	}
+	"Downpour"
+	{
+		"en" "D8036 Hard Rain: Downpour"
+	}
+	"DarkCarnivalRemix"
+	{
+		"en" "D8037 Dark Carnival Remix"
+	}
+	"whispersofwinter"
+	{
+		"en" "D8038 Whispers of Winter"
+	}
+	"ZPTZ"
+	{
+		"en" "D8039 Z-PTZ"
+	}
 }
 

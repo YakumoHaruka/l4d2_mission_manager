@@ -52,9 +52,6 @@
     {
         "en" "Cold Stream"
     }
-
-
-
     "2019IIDC"
     {
         "en" "2019 II: Director's Cut"
@@ -69,7 +66,7 @@
     }
     "2evileyes"
     {
-        "en" "Evil Eyes"
+        "en" "2 Evil Eyes"
     }
     "4xflut3S3ezxs"
     {
@@ -235,6 +232,10 @@
     {
         "en" "Claustrophobia"
     }
+    "coaldblood"
+    {
+        "en" "Coal'd Blood 2"
+    }
     "coldcase"
     {
         "en" "Cold Case 2017"
@@ -286,6 +287,10 @@
     "darkblood2"
     {
         "en" "Dark Blood 2"
+    }
+    "DarkCarnivalRemix"
+    {
+        "en" "Dark Carnival Remix"
     }
     "darkwaters"
     {
@@ -399,6 +404,10 @@
     {
         "en" "Death Hour (Non-Hardcore)"
     }
+    "DeathMountain"
+    {
+        "en" "Death Mountain"
+    }
     "DeathRowL4D2"
     {
         "en" "Death Row L4D2"
@@ -435,6 +444,14 @@
     {
         "en" "DMRs Quickie V2.0"
     }
+    "Dniepr"
+    {
+        "en" "Dniepr: Life is not a bed of roses"
+    }
+    "Downpour"
+    {
+        "en" "Hard Rain: Downpour"
+    }
     "drdegov21"
     {
         "en" "Drop Dead Gorges"
@@ -455,6 +472,10 @@
     {
         "en" "Energy Crisis"
     }
+    "Escansion"
+    {
+        "en" "Escansion"
+    }
     "escdevilschapel"
     {
         "en" "Escape the Devil's Chapel TLM Ver"
@@ -470,6 +491,10 @@
     "exMala"
     {
         "en" "Escape from Malabar v7"
+    }
+    "eye"
+    {
+        "en" "Divine Cybermancy"
     }
     "Fake"
     {
@@ -547,6 +572,10 @@
     {
         "en" "Going Ballistic v5.0"
     }
+    "goldeneye4dead"
+    {
+        "en" "GoldenEye 4 Dead Fixed"
+    }
     "GoldenEye"
     {
         "en" "GoldenEye"
@@ -622,6 +651,10 @@
     "HighwayToHell"
     {
         "en" "Highway To Hell"
+    }
+    "hometown"
+    {
+        "en" "Hometown"
     }
     "hongkong"
     {
@@ -771,6 +804,10 @@
     {
         "en" "Left In Prypiat"
     }
+    "LeftTurnSilentHill3"
+    {
+        "en" "Left Turn Silent Hill 3"
+    }
     "lego4dead"
     {
         "en" "Lego 4 Dead 2"
@@ -919,6 +956,10 @@
     {
         "en" "Prototype Mk3"
     }
+    "qiuming"
+    {
+        "en" "QiuMing City"
+    }
     "quedan"
     {
         "en" "Quedan 4X Morir L4D2"
@@ -930,6 +971,10 @@
     "QuestionableEthics"
     {
         "en" "Questionable Ethics 1"
+    }
+    "ravenholmwar2"
+    {
+        "en" "We Don't Go To Ravenholm 2"
     }
     "re2a"
     {
@@ -954,6 +999,10 @@
     "Revenge"
     {
         "en" "Revenge"
+    }
+    "reversebh"
+    {
+        "en" "Reverse Blood Harvest 2"
     }
     "rkls"
     {
@@ -1107,6 +1156,10 @@
     {
         "en" "The Cure"
     }
+    "TheCurseofLazarCastle"
+    {
+        "en" "The Curse of Lazar Castle"
+    }
     "thedividereborn"
     {
         "en" "The Divide: Reborn"
@@ -1150,6 +1203,10 @@
     "thewoods"
     {
         "en" "The Woods"
+    }
+    "TokyoDark"
+    {
+        "en" "Tokyo Dark"
     }
     "tot"
     {
@@ -1219,6 +1276,10 @@
     {
         "en" "Wan Li"
     }
+    "warcelona"
+    {
+        "en" "Warcelona"
+    }
     "WARPCORE"
     {
         "en" "Warp Core"
@@ -1230,6 +1291,10 @@
     "whispersdark"
     {
         "en" "Whispers In The Dark"
+    }
+    "whispersofwinter"
+    {
+        "en" "Whispers of Winter"
     }
     "WhiteForest"
     {
@@ -1271,6 +1336,10 @@
     {
         "en" "You Are Doomed"
     }
+    "Z3r04Bs0lut3971"
+    {
+        "en" "Absolute Zero"
+    }
     "Zelda"
     {
         "en" "The Legend of Zelda"
@@ -1282,5 +1351,9 @@
     "zmb13"
     {
         "en" "ZMB-13"
+    }
+    "ZPTZ"
+    {
+        "en" "Z-PTZ"
     }
 }

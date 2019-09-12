@@ -52,9 +52,6 @@
     {
         "chi" "刺骨寒溪"
     }
-
-
-
     "2019IIDC"
     {
         "chi" "2019 II 导演剪辑版"
@@ -235,6 +232,10 @@
     {
         "chi" "幽闭恐惧症"
     }
+    "coaldblood"
+    {
+        "chi" "冷血 2"
+    }
     "coldcase"
     {
         "chi" "铁证悬案2017"
@@ -286,6 +287,10 @@
     "darkblood2"
     {
         "chi" "黑血 2"
+    }
+    "DarkCarnivalRemix"
+    {
+        "chi" "黑暗嘉年华 Remix版"
     }
     "darkwaters"
     {
@@ -399,6 +404,10 @@
     {
         "chi" "死亡时间 (非硬核版)"
     }
+    "DeathMountain"
+    {
+        "chi" "死亡山脉"
+    }
     "DeathRowL4D2"
     {
         "chi" "死囚区"
@@ -435,6 +444,14 @@
     {
         "chi" "速战速决"
     }
+    "Dniepr"
+    {
+        "chi" "切尔诺贝利 / 人生并非事事如意"
+    }
+    "Downpour"
+    {
+        "chi" "暴风骤雨：暴雨"
+    }
     "drdegov21"
     {
         "chi" "暴毙峡谷 / 死亡峡谷"
@@ -455,6 +472,10 @@
     {
         "chi" "能源危机"
     }
+    "Escansion"
+    {
+        "chi" "逃出升天 / 阿森松岛 / 韵律"
+    }
     "escdevilschapel"
     {
         "chi" "逃离魔鬼教堂"
@@ -470,6 +491,10 @@
     "exMala"
     {
         "chi" "逃离马拉巴尔"
+    }
+    "eye"
+    {
+        "chi" "异度神召"
     }
     "Fake"
     {
@@ -547,6 +572,10 @@
     {
         "chi" "导弹来袭"
     }
+    "goldeneye4dead"
+    {
+        "chi" "黄金眼：4人死亡"
+    }
     "GoldenEye"
     {
         "chi" "黄金眼"
@@ -622,6 +651,10 @@
     "HighwayToHell"
     {
         "chi" "地狱之路"
+    }
+    "hometown"
+    {
+        "chi" "故乡"
     }
     "hongkong"
     {
@@ -771,6 +804,10 @@
     {
         "chi" "逃离普里皮亚季"
     }
+    "LeftTurnSilentHill3"
+    {
+        "chi" "寂静岭 3"
+    }
     "lego4dead"
     {
         "chi" "乐高"
@@ -919,6 +956,10 @@
     {
         "chi" "原型三号"
     }
+    "qiuming"
+    {
+        "chi" "秋明市"
+    }
     "quedan"
     {
         "chi" "玛雅遗址"
@@ -930,6 +971,10 @@
     "QuestionableEthics"
     {
         "chi" "伦理问题 1"
+    }
+    "ravenholmwar2"
+    {
+        "chi" "我们不去莱温霍姆"
     }
     "re2a"
     {
@@ -954,6 +999,10 @@
     "Revenge"
     {
         "chi" "复仇：最后一章"
+    }
+    "reversebh"
+    {
+        "chi" "逆向血腥收获"
     }
     "rkls"
     {
@@ -1107,6 +1156,10 @@
     {
         "chi" "解药 / 治愈 / 医疗部队"
     }
+    "TheCurseofLazarCastle"
+    {
+        "chi" "拉扎尔城堡的诅咒 / 城堡诅咒"
+    }
     "thedividereborn"
     {
         "chi" "隔绝"
@@ -1150,6 +1203,10 @@
     "thewoods"
     {
         "chi" "森林"
+    }
+    "TokyoDark"
+    {
+        "chi" "东京暗影"
     }
     "tot"
     {
@@ -1219,6 +1276,10 @@
     {
         "chi" "万里"
     }
+    "warcelona"
+    {
+        "chi" "巴塞罗那"
+    }
     "WARPCORE"
     {
         "chi" "曲速核心"
@@ -1230,6 +1291,10 @@
     "whispersdark"
     {
         "chi" "暗中低语"
+    }
+    "whispersofwinter"
+    {
+        "chi" "冬日的低语"
     }
     "WhiteForest"
     {
@@ -1271,6 +1336,10 @@
     {
         "chi" "命中注定"
     }
+    "Z3r04Bs0lut3971"
+    {
+        "chi" "绝对零度"
+    }
     "Zelda"
     {
         "chi" "塞尔达传说"
@@ -1282,5 +1351,9 @@
     "zmb13"
     {
         "chi" "代号ZMB-13"
+    }
+    "ZPTZ"
+    {
+        "chi" "Z-PTZ / 丧尸俄城"
     }
 }
