@@ -1398,5 +1398,21 @@
 	{
 		"en" "D8039 Z-PTZ"
 	}
+	"unholyground"
+	{
+		"en" "D8040 Unholy Ground"
+	}
+	"HalfLife2"
+	{
+		"en" "D8041 Half Life 2 Levels 1~33"
+	}
+	"HalfLife2s"
+	{
+		"en" "D8041 Half Life 2 Levels 34~66"
+	}
+	"Landofoblivio"
+	{
+		"en" "D8042 Land Of Oblivion"
+	}
 }
 

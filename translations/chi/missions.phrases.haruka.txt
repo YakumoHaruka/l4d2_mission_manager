@@ -209,7 +209,7 @@
 	}
 	"Dniepr"
 	{
-		"chi" "D1042 切尔诺贝利 / 人生并非事事如意"
+		"chi" "D1042 第聂伯河 / 切尔诺贝利"
 	}
 	"QuestionableEthics"
 	{
@@ -1168,7 +1168,7 @@
 	}
 	"yanzhou"
 	{
-		"chi"  "D7036 扬州"
+		"chi"  "D7036 砚洲"
 	}
 	"lego4dead"
 	{
@@ -1384,6 +1384,22 @@
 	"ZPTZ"
 	{
 		"chi" "D8039 Z-PTZ / 丧尸俄城"
+	}
+	"unholyground"
+	{
+		"chi" "D8040 邪恶之地"
+	}
+	"HalfLife2"
+	{
+		"chi" "D8041 求肝之路：只剩半条命了4 第1~33关"
+	}
+	"HalfLife2s"
+	{
+		"chi" "D8041 求肝之路：只剩半条命了4 第34~66关"
+	}
+	"Landofoblivio"
+	{
+		"chi" "D8042 遗忘之地"
 	}
 }
 
